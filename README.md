@@ -1,4 +1,5 @@
 <img src="https://jgcrellin.github.io/portfolio/Photo.jpg" width ="200" align="left"/>
+<br>
 <h1> about me </h1>
 <p> Greetings and salutations! My name is Juliette Crellin (she/her), and I'm working toward my Masters of Science in Public Policy and Management at Heinz College. I'm originally from New York City, but I'm passing the pandemic in Pittsburgh. Before coming to Heinz College, I was serving as a Peace Corps Volunteer in the Republic of Moldova until I was evacuated due to COVID-19. In my free time I like cooking, reading about, and consuming good food; exploring the outside world; and watching movies.</p>
 <br>
