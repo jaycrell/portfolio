@@ -1,4 +1,4 @@
-<h1> Website </h1>
+<h1> Telling Stories with Data Portfolio Page </h1>
 <img src="https://jgcrellin.github.io/portfolio/Photo.jpg" width ="200" align="left"/>
 <br>
 <h2> about me </h2>
