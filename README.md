@@ -8,4 +8,4 @@ I like data anaylsis and graphic design, so I'm hoping to combine those skills i
 # portfolio
 I'll be putting all my visualizations here. Stay tuned!
 
-(Photo for Github.jpg)
+(https://www.jgcrellin.github.com/Photo.jpg)
