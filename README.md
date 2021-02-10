@@ -6,3 +6,5 @@ I like data anaylsis and graphic design, so I'm hoping to combine those skills i
 
 # portfolio
 I'll be putting all my visualizations here. Stay tuned!
+
+<image> Photo for Github.jpg </image> 
