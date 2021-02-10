@@ -8,4 +8,4 @@ I like data anaylsis and graphic design, so I'm hoping to combine those skills i
 # portfolio
 I'll be putting all my visualizations here. Stay tuned!
 
-![Image of Me](https://jgcrellin.github.io/portfolio/Photo.jpg | width = 200)
+<img src="https://jgcrellin.github.io/portfolio/Photo.jpg" width ="200")
