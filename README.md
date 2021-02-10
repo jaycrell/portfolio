@@ -9,4 +9,4 @@ I like data anaylsis and graphic design, so I'm hoping to combine those skills i
 I'll be putting all my visualizations here. Stay tuned!
 
 ![Image of me]
-(https://www.jgcrellin.github.com/Photo.jpg)
+(https://www.jgcrellin.github.com/images/Photo.jpg)
