@@ -11,4 +11,4 @@
 
 <h2> portfolio </h2>
 <p> I'll be putting all my visualizations here. Stay tuned!</p>
-<p> <a href="/portfolio/govdebtviz.html"> Government Debt Visualization</a> </p>
+<p> <a href="jgcrellin.github.io/portfolio/govdebtviz.html"> Government Debt Visualization</a> </p>
