@@ -1,8 +1,8 @@
 <h1> Visualizing Government Debt</h1>
 <h3> One data set served three ways </h3>
 <p>
-1. <a href="#oecd">An OECD Bar Chart </a>
-2. <a href="#grid">A Grid of Debt-GDP by Country </a>
+1. <a href="#oecd">An OECD Bar Chart </a><br>
+2. <a href="#grid">A Grid of Debt-GDP by Country </a><br>
 3. <a href="#japan">An gradient line chart </a>
   </p>
 
