@@ -18,9 +18,9 @@
 
 <h2 id="discussion"> A Discussion </h2> 
 <p> These visualizations all represent the data set in different ways, highlighting unique aspects of the data. The General Government Debt column graph from OECD shows the data set for one point in time (2019 in this example). This example nicely shows the significance of Greece's debt, but it notably does not show Japan's because the country didn't report its debt in 2019, which means it's painting an incomplete picture world's landscape.
-<br>
+<br><br>
 The grid of line graphs offers a nice, aesthetically pleasing snapshot into how each country's debt has changed over time. We can see that most countries have had an increasing debt to GDP ration, but it's difficult to compare them because they're so spread out.
-<br>
+<br><br>
 I made my line graph with the goal of comparing the change in countries' debt-to-GDP ratios over time. I made the higher debt-to-GDP ratio countries darker red so the reader could focus on them, but I wish could have had more control over the color scheme for the lower-debt countries.  I also made my chart taller than it is wide to try to make it easier to see the differences between the debts, but I don't think it's necessarily drastic enough. I wanted to also include dots that increased in size with the increasing lines, but I thought it made it a bit crowded, and I liked seeing the names of the countries move along the lines. Overall, I found Flourish's capabilities a bit limited, particularly with what I could do given the way the OECD's data was set up.
   
 <h2> All set? Let's <a href= "/portfolio">go home</a>! </h2>
