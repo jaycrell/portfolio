@@ -13,6 +13,6 @@
 <div class="flourish-embed flourish-chart" data-src="visualisation/5297763"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <h2 id="japan"> High Debt-GDP in Japan </h2>
-<div class="flourish-embed flourish-scatter" data-src="visualisation/5298172"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-scatter" data-src="visualisation/5298172" data-width="75%"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <h2> All set? Let's <a href= "/portfolio">go home</a>! </h2>
