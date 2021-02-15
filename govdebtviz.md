@@ -1,11 +1,11 @@
 <h1> Visualizing Government Debt</h1>
 <h3> One data set served three ways </h3>
-<p>
+<h4>
 1. <a href="#oecd">An OECD Bar Chart </a><br>
 2. <a href="#grid">A Grid of Debt-GDP by Country </a><br>
 3. <a href="#japan">An gradient line chart </a><br>
   4. <a href="#discussion">Write-Up</a>
-  </p>
+  </h4>
 
 <h2 id="oecd"> A Debt Course served by the OECD </h2>
 <iframe src="https://data.oecd.org/chart/6gQd" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6gQd" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
