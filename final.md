@@ -1,3 +1,4 @@
+<h1> Final Project </h1>
 <h2> Ideas for Visualizations </h2>
 <ul>
 <li> Map of countries by ET rate overlaid on Human Develpoment Index
