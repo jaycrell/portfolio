@@ -19,3 +19,5 @@ With this vision, I started sketching wireframes. While sketching, I had ideas f
 <img src="https://jgcrellin.github.io/portfolio/wireframenew.JPG" width ="600px" align="left"/>
 <br><br>
 My final version looks a bit different than the wireframes I imagined. I think I bit off a bit more than I could chew trying to make a story in Tableau for the first time, particularly since Tableau isn’t great for making unit charts. There were aspects of the wireframes and my vision that I couldn’t materialize using Tableau, but I hope to continue learning to use Tableau to improve it or to eventually redesign it using another software. </p>
+
+<h2> All set? Let's <a href= "/portfolio">go home</a>! </h2>
