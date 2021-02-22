@@ -1,7 +1,7 @@
 <h1> Redesigning Eviction Data</h1>
 
 <h2> Original Design </h2>
-<img src="https://jgcrellin.github.io/portfolio/chart3_fsp.png" target="_blank" width ="200px" align="left"/>
+<img src="https://jgcrellin.github.io/portfolio/chart3_fsp.png" target="_blank" width ="400px" align="left"/>
 <p width ="400px" align="left"> <i> Source: <a href="https://www.aspeninstitute.org/blog-posts/the-covid-19-eviction-crisis-an-estimated-30-40-million-people-in-america-are-at-risk/"> Aspen Institute: The COVID-19 Eviction Crisis: An Estimated 30-40 Million People Are at Risk </a> </i> </p>
 
 <h2> My Redesign </h2>
