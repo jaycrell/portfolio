@@ -5,7 +5,7 @@
 <p width ="400px" align="left"> <i> Source: <a src="https://www.aspeninstitute.org/blog-posts/the-covid-19-eviction-crisis-an-estimated-30-40-million-people-in-america-are-at-risk/"> Aspen Institute: The COVID-19 Eviction Crisis: An Estimated 30-40 Million People Are at Risk </a> </i> </p>
 
 <h2> My Redesign </h2>
-<p> <a href=https://public.tableau.com/shared/H6TMRDDR5?:display_count=y&:origin=viz_share_link" target="_blank"> Link Here </a>
+<p> <a href="https://public.tableau.com/shared/H6TMRDDR5?:display_count=y&:origin=viz_share_link" target="_blank"> Link Here </a>
 
 <div class='tableauPlaceholder' id='viz1613970494216' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;H6&#47;H6TMRDDR5&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;H6TMRDDR5' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;H6&#47;H6TMRDDR5&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' />
  <param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div>                
