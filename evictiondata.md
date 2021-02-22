@@ -3,7 +3,7 @@
 <h2> Original Design </h2>
 <img src="https://jgcrellin.github.io/portfolio/chart3_fsp.png" target="_blank" width ="400px" align="left"/>
 <p width ="400px"> <i> Source: <a href="https://www.aspeninstitute.org/blog-posts/the-covid-19-eviction-crisis-an-estimated-30-40-million-people-in-america-are-at-risk/"> Aspen Institute: The COVID-19 Eviction Crisis: An Estimated 30-40 Million People Are at Risk </a> </i> </p>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h2> My Redesign </h2>
 <p> <a href="https://public.tableau.com/shared/H6TMRDDR5?:display_count=y&:origin=viz_share_link" target="_blank"> Link Here </a>
 
