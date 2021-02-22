@@ -13,6 +13,6 @@ My main vision became trying to personalize the millions of people facing evicti
 <br><br>
  
 With this vision, I started sketching wireframes. While sketching, I had ideas for unit charts and tree charts, which came together and inspired me to make a story. I wanted to make sure my interviewees felt the personal experience, so I sketched three states that were relevant to the people I was interviewing: New York, Pennsylvania, and Minnesota. These conversations helped me refine my idea and consolidate the story. They also reinforced my vision of making the data personal, and one interviewee even alerted me to the influence of the wealth chart we examined on the first day of class. After feedback I decide to have four story pages: the state, the street view, a unit chart (later removed), and two tree charts. 
-<img src="https://jgcrellin.github.io/portfolio/Wireframe.png" width ="600px" align="left"/>
+<img src="https://jgcrellin.github.io/portfolio/Wireframe.JPG" width ="600px" align="left"/>
 <br><br>
 My final version looks a bit different than the wireframes I imagined. I think I bit off a bit more than I could chew trying to make a story in Tableau for the first time, particularly since Tableau isn’t great for making unit charts. There were aspects of the wireframes and my vision that I couldn’t materialize using Tableau, but I hope to continue learning to use Tableau to improve it or to eventually redesign it using another software. </p>
