@@ -11,7 +11,12 @@
 <h2> This Project </h2>
 <p> For this project, I want to explore the rising rate of volunteers resigning from the Peace Corps before they complete their two years of service. The rate of Peace Corps Volunteers leaving service early has always been relatively high (with the lowest rate at 24%), but the rate of Peace Corps Volunteers leaving service early has been increasing every year for the past 5 years of volunteer cohorts. Although I think much of this has to due with the economy growing after the 2009 recession, I want to explore what other factors might cause volunteers to leave service early so Peace Corps can consider how to better support and retain volunteers when it restarts service after the pandemic.
 </p>
-
+<h2> Outline </h2>
+<h3> Part 1: The Overall Trends </h3>
+<h4> Line Chart </h4>
+<p> I want to open my project with a simple line chart of the "early termination" (ET) rate increasing between 2012 and 2017. This might be a bit misleading because the rate is increasing from a low in 2012, but I think it will catch the audience's attention. I have this data from the Peace Corps website.</p>
+<h4> Area Chart </h4>
+<p> Next, I want to show the rising ET rate in relation to the resignation rate (when volunteers choose to leave service). I think this is interesting to look at because the resignation rate has been rising since 2012, but not as quickly as the ET rate.
 
   
 <h2> Notes about the Author </h2>
