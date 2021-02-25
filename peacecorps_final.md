@@ -66,3 +66,5 @@
         
 <h2> Notes about the Author </h2>
 <p> Juliette Crellin is a Returned Peace Corps Volunteer who served in the Republic of Moldova from June 2018 until she was evacuated due to COVID-19 in March 2020. Like any volunteer, Juliette has many opinions about Peace Corps service that cannot all be represented in this project. Overall, she enjoyed her service and thinks Peace Corps has good intentions at heart, but it needs some work, like all of us. </p>
+
+
