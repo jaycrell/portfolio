@@ -22,13 +22,16 @@
 <h4> Area Chart </h4>
 <p> Next, I want to show the rising ET rate in relation to the resignation rate (when volunteers choose to leave service). I think this is interesting to look at because the resignation rate has been rising since 2012, but not as quickly as the ET rate. I'll have to take this information from Page 5 of <a href="https://s3.amazonaws.com/files.peacecorps.gov/documents/open-government/FY_2019_Early_Termination_Report.pdf" target="_blank"> this Peace Corps early termination report</a> because they don't break the early termination data down by type in the downloadable data set.</p>
 
-<h3> Part 1: Looking by Region and Country </h3>
+<h3> Part 2: Looking by Region and Country </h3>
 <h4> Bubble Charts </h4>
 <p> My vision for this chart is to start with three bubbles for the Peace Corps regions: Africa, Inter-America and Pacific Region, and Europe, Mediterranean, and Asia region. I thought that the regions would have different ET rates, so I think my readers would also be intrigued to see they're the same. I want the reader to be able to click on the circle of a region and have it break into countries' ET rates within that region, but I'm not sure if that's possible yet. Regardless, the countries' individual ET rates are a bit more interesting and varied. (This also leads to <a href="#1"> known exclusion 1</a>). </p>
 
+<h4>Bar Chart</h4>
+<p> After the reader can explore the bubbles a little bit to see the ET rates relative to each other, I want to include a bar chart of the ET rates by country of service. This chart will mainly be to highlight which countries have the highest ET rates (I think I'll compare the 10 highest and 10 lowest for later analyses), but I think including all the bars will be good because if volunteers are reading this they'll want to search for their country of service.</p>
+
 <h2> Project Parameter Notes </h2>
 <ol>
-  <li id="1"> To control for some outlying high rates of ETs and ETs due to country instability, this part of the project only includes countries that have interrupted service between 2003 and 2017. For example, Ukraine is still a Peace Corps country, but the War in Crimea caused Peace Corps to close the program for a year. Although this doesn't seem to have affected ET rates for the cohort, nonetheless I excluded it for consistency. In contrast, some other countries that shut down like Kiribati and Turkmenistan had very high ET rates right before the countries shut service. I think these anomolies are interesting, and I'd like to possibly highlight a few, but it would be in an addendum like this.
+  <li id="1"> To control for some outlying high rates of ETs and ETs due to country instability, this part of the project only includes countries that have interrupted service between 2003 and 2017. For example, Ukraine is still a Peace Corps country, but the War in Crimea caused Peace Corps to close the program for a year. Although this doesn't seem to have affected ET rates for the cohort, nonetheless I excluded it for consistency. In contrast, some other countries that shut down like Kiribati and Uzbekistan had very high ET rates of 40% and 70% right before the countries shut service. I think these anomolies are interesting, and I'd like to possibly highlight a few, but it would be in an addendum like this.
 </ol>
   
 <h2> Notes about the Author </h2>
