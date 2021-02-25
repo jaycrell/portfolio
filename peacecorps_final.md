@@ -32,7 +32,22 @@
 <h2> Project Parameter Notes </h2>
 <ol>
   <li id="1"> To control for some outlying high rates of ETs and ETs due to country instability, this part of the project only includes countries that have interrupted service between 2003 and 2017. For example, Ukraine is still a Peace Corps country, but the War in Crimea caused Peace Corps to close the program for a year. Although this doesn't seem to have affected ET rates for the cohort, nonetheless I excluded it for consistency. In contrast, some other countries that shut down like Kiribati and Uzbekistan had very high ET rates of 40% and 70% right before the countries shut service. I think these anomolies are interesting, and I'd like to possibly highlight a few, but it would be in an addendum like this.
-</ol>
-  
+    <li> On a similar note, I excluded Montenegro from my data and combined it with Albania because Peace Corps combined Montenegro's ET rate with Albanias since they share country staff, and the country is so new to Peace Corps that it doesn't have significant data.
+      <li> A note on interpretting ET years. I think ET rates are best measured by cohort. This means that ET rates for "2017" are actually for the cohort of volunteers that served between 2017 and 2019. This is the latest data available and data from 2020 would be unusable anyway because of evacuation. That being said, for my one year cross-sectional for 2018, I may switch to the ET rate for that year as opposed to for the cohort.
+
+<h2> Data Sources </h2> 
+<p> I'll be drawing upon a number of public access data sources for this project, which are all available from Peace Corps's website. I have to clean up some of the sources so their structures match, but then I'll match them using countries of service. Some data comes from data sets downloaded directly from the <a href="https://www.peacecorps.gov/about/open-government/reports/" target="_blank"> Open Government Reports</a> page on the Peace Corps website, while two other sources have to be pulled from Peace Corps reports that don't have the .csv files available for download. Some of these sources are linked earlier in this project description, but the following is a comprehensive list of sources. </p>
+<ul>
+  <li> Data from Reports
+    <ul> 
+      <li> For volunteer resignation rates, I'll use data from page 5 of<a href=https://s3.amazonaws.com/files.peacecorps.gov/documents/open-government/FY_2019_Early_Termination_Report.pdf" target="_blank"> FY 2019 Peace Corps Early Termination Report"</a>. This data set will be used to show the trend that ET rates are increasing faster than resignation rates.
+      <li> For the mental health of volunteers by country, I'll pull from the table on pages 68 - 71 of <a href="https://s3.amazonaws.com/files.peacecorps.gov/documents/open-government/Health_of_the_Volunteer_2018.pdf" target="_blank"> The Health of the Volunteer 2018 </a>. I'll use this data set to look deeper into what may have affected volunteer ET rates in 2018 as a case study and to incorporate medical evacuation rates.
+    <li> If I decide to include medical evacuation rates, I'll also use <a href="https://s3.amazonaws.com/files.peacecorps.gov/documents/open-government/HOV2017.pdf" target="_blank"> Health of the Volunteer 2017 </a> Unfortunately, Peace Corps didn't start reporting on volunteer mental health until 2018 though.
+          </ul>
+    <li> Downloaded Data
+      <ul>
+        <li> For overall ET rates, I may use two sources. For my main measure of ET rates, I'll be using <a href="https://s3.amazonaws.com/files.peacecorps.gov/documents/open-government/Cohort_ET_Rates_by_Post_and_FY.csv" target="_blank"> Early Termination Data by Country - Cohort Method - FY 2003-2017 [CSV] </a> I think the cohort method of measurement is preferrable because it gives you a better sense of how many volunteers completed service within a group of volunteers, but since I only have mental health data for 2018, I may have to switch to the annual measure of volunteer ET rates - <a href="https://s3.amazonaws.com/files.peacecorps.gov/documents/open-government/Annual_ET_Rates_by_Post_and_FY.csv" target="_blank"> Early Termination Data by Country - Annual Method - FY 2007-2020 [CSV] </a> for my cross-sectional case study.
+          
+        
 <h2> Notes about the Author </h2>
 <p> Juliette Crellin is a Returned Peace Corps Volunteer who served in the Republic of Moldova from June 2018 until she was evacuated due to COVID-19 in March 2020. Like any volunteer, Juliette has many opinions about Peace Corps service that cannot all be represented in this project. Overall, she enjoyed her service and thinks Peace Corps has good intentions at heart, but it needs some work, like all of us. </p>
