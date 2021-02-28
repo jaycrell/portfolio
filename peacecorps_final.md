@@ -50,8 +50,9 @@
         <li> For overall ET rates, I may use two sources. For my main measure of ET rates, I'll be using <a href="https://s3.amazonaws.com/files.peacecorps.gov/documents/open-government/Cohort_ET_Rates_by_Post_and_FY.csv" target="_blank"> Early Termination Data by Country - Cohort Method - FY 2003-2017 [CSV] </a> I think the cohort method of measurement is preferrable because it gives you a better sense of how many volunteers completed service within a group of volunteers, but since I only have mental health data for 2018, I may have to switch to the annual measure of volunteer ET rates - <a href="https://s3.amazonaws.com/files.peacecorps.gov/documents/open-government/Annual_ET_Rates_by_Post_and_FY.csv" target="_blank"> Early Termination Data by Country - Annual Method - FY 2007-2020 [CSV] </a> for my cross-sectional case study.
           <li> For the cross-sectional analysis, I'll also look some of the results of the 2018 Annual Volunteer Survey. I need to clean up the data set, but it's <a href="https://s3.amazonaws.com/files.peacecorps.gov/documents/open-government/AVS_2018_Post-level_Means_-_11_13_2018.xlsx" target="_blank"> 2018 Annual Volunteer Survey Results Post Averages [XLS] </a>
           <li> Finally, I'll also use the <a href="https://s3.amazonaws.com/files.peacecorps.gov/documents/open-government/2018_Reported_Crime_Victimizations__Incidence_Rates_Tables.xlsx" target="_blank"> Reported Crime Victimizations & Incidence Rates Tables - 2018 [XLSX]</a> to look at how crime could affect volunteers staying in their country of service.
-      </ul>
-      </ul>
+</ul>
+</ul>
+</ul>
 <h2> Method and Medium </h2>
 <p> I plan on using Shorthand for this project. I like how Shorthand scrolls like a story, and I like that it's easy for the user to interact with charts. For my presentation, I plan on including indexed links within the Shorthand so I can jump to the main points of the project without scrolling. These links may also be nice for any future user, like a federal government staff member, that just wants the overview of what's happening in the report.
   <br>
