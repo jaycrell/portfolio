@@ -15,6 +15,7 @@
 <h2> Outline </h2>
 
 <h3> Part 1: The Overall Trends </h3>
+<img src="![image](https://user-images.githubusercontent.com/62813574/109437421-c50de200-79f2-11eb-837f-456ea9d1d0de.png)">
 
 <h4> Line Chart </h4>
 <p> I want to open my project with a simple line chart of the "early termination" (ET) rate increasing between 2012 and 2017. This might be a bit misleading because the rate is increasing from a low in 2012, but I think it will catch the audience's attention. I may make a second version of this line chart that includes data from 2003 to 2017 with notable dates for times when Peace Corps changed the application process and the years of the recession.</p>
