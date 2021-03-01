@@ -9,7 +9,8 @@
   </p>
   
 <h2> This Project </h2>
-<p> For this project, I want to explore the rising rate of volunteers resigning from the Peace Corps before they complete their two years of service. The rate of Peace Corps Volunteers leaving service early has always been relatively high (with the lowest rate at 24%), but the rate of Peace Corps Volunteers leaving service early has been increasing every year for the past 5 years of volunteer cohorts. Although I think much of this has to due with the economy growing after the 2009 recession, I want to explore what other factors might cause volunteers to leave service early so Peace Corps can consider how to better support and retain volunteers when it restarts service after the pandemic. My intended audience for this project is Peace Corps staff who may use this information to improve the program and other Returned Peace Corps Volunteers who, like me, may be curious to see what all this data about us looks like.
+<p> For this project, I want to explore the rising rate of volunteers resigning from the Peace Corps before they c
+omplete their two years of service. The rate of Peace Corps Volunteers leaving service early has always been relatively high (with the lowest rate at 24%), but the rate of Peace Corps Volunteers leaving service early has been increasing every year for the past 5 years of volunteer cohorts. Although I think much of this has to due with the economy growing after the 2009 recession, I want to explore what other factors might cause volunteers to leave service early so Peace Corps can consider how to better support and retain volunteers when it restarts service after the pandemic. My intended audience for this project is Peace Corps staff who may use this information to improve the program and other Returned Peace Corps Volunteers who, like me, may be curious to see what all this data about us looks like.
 </p>
 
 <h2> Outline </h2>
@@ -19,6 +20,7 @@
 
 <h4> Line Chart </h4>
 <p> I want to open my project with a simple line chart of the "early termination" (ET) rate increasing between 2012 and 2017. This might be a bit misleading because the rate is increasing from a low in 2012, but I think it will catch the audience's attention. I may make a second version of this line chart that includes data from 2003 to 2017 with notable dates for times when Peace Corps changed the application process and the years of the recession.</p>
+<img width="761" alt="Screen Shot 2021-03-01 at 11 12 49 AM" src="https://user-images.githubusercontent.com/62813574/109525257-588cf480-7a7f-11eb-8597-17caea215b8f.png">
 
 <h4> Area Chart </h4>
 <p> Next, I want to show the rising ET rate in relation to the resignation rate (when volunteers choose to leave service). I think this is interesting to look at because the resignation rate has been rising since 2012, but not as quickly as the ET rate. I'll have to take this information from Page 5 of <a href="https://s3.amazonaws.com/files.peacecorps.gov/documents/open-government/FY_2019_Early_Termination_Report.pdf" target="_blank"> this Peace Corps early termination report</a> because they don't break the early termination data down by type in the downloadable data set.</p>
@@ -27,11 +29,17 @@
 <h4> Bubble Charts </h4>
 <p> My vision for this chart is to start with three bubbles for the Peace Corps regions: Africa, Inter-America and Pacific Region, and Europe, Mediterranean, and Asia region. I thought that the regions would have different ET rates, so I think my readers would also be intrigued to see they're the same. I want the reader to be able to click on the circle of a region and have it break into countries' ET rates within that region, but I'm not sure if that's possible yet. Regardless, the countries' individual ET rates are a bit more interesting and varied. (This also leads to <a href="#1"> known exclusion 1</a>). </p>
 
+<img width="621" alt="Circle Chart" src="https://user-images.githubusercontent.com/62813574/109525152-3dba8000-7a7f-11eb-82b3-ff959ff03dc7.png">
+
 <h4>Bar Chart</h4>
 <p> After the reader can explore the bubbles a little bit to see the ET rates relative to each other, I want to include a bar chart of the ET rates by country of service. This chart will mainly be to highlight which countries have the highest ET rates (I think I'll compare the 10 highest and 10 lowest for later analyses), but I think including all the bars will be good because if volunteers are reading this they'll want to search for their country of service.</p>
 
+<img width="514" alt="Bar Chart" src="https://user-images.githubusercontent.com/62813574/109525245-562a9a80-7a7f-11eb-8a3c-f85c14c614f7.png">
+
 <h3> Part 3: Exploring What Impacts ET Rate </h3>
 <p> I don't have wire frames or visions of what these charts will look like yet because I need to look at the data more, but I'm going to look at some different factors that may have affected the ET rates in various countries in 2018. Even if none of the factors I examine seem to have a considerable impact on volunteer ET rate, I think that will be interesting in itself. I'm going to look at some notable responses from the Annual Volunteer Survey, volunteer mental health by country, and crime rate by country. These might all be one chart that the user can add and remove variables from.</p>
+
+<img width="921" alt="Screen Shot 2021-03-01 at 11 11 18 AM" src="https://user-images.githubusercontent.com/62813574/109525420-83774880-7a7f-11eb-85a3-4f4bc2102ff2.png">
 
 <h3> Part 4: Call to Action </h3>
 <p> My call to action is for Peace Corps staff. They now have time to review their programs and the way they're supporting volunteers and make serious stuctural changes to help volunteers. Even if none of the specific measures I look at (crime, mental health, bad AVS survey results) significantly impact ET rate, they are still things Peace Corps needs to concern itself with. Hopefully seeing it visualized will make it more real and can motivate them to do something about it. For volunteers, maybe it will help answer some questions we've all been wondering about.</p>
