@@ -35,7 +35,7 @@ omplete their two years of service. The rate of Peace Corps Volunteers leaving s
 <h4>Bar Chart</h4>
 <p> After the reader can explore the bubbles a little bit to see the ET rates relative to each other, I want to include a bar chart of the ET rates by country of service. This chart will mainly be to highlight which countries have the highest ET rates (I think I'll compare the 10 highest and 10 lowest for later analyses), but I think including all the bars will be good because if volunteers are reading this they'll want to search for their country of service.</p>
 
-<img width="761" alt="Bar Chart src="https://user-images.githubusercontent.com/62813574/109525257-588cf480-7a7f-11eb-8597-17caea215b8f.png">
+<img width="761" alt="Bar Chart" src="https://user-images.githubusercontent.com/62813574/109525257-588cf480-7a7f-11eb-8597-17caea215b8f.png">
 
 <h3> Part 3: Exploring What Impacts ET Rate </h3>
 <p> I need to look at the data more, but I'm going to look at some different factors that may have affected the ET rates in various countries in 2018. Even if none of the factors I examine seem to have a considerable impact on volunteer ET rate, I think that will be interesting in itself. I'm going to look at some notable responses from the Annual Volunteer Survey, volunteer mental health by country, and crime rate by country. These might all be one chart that the user can add and remove variables from.</p>
