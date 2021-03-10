@@ -12,6 +12,7 @@
     <td> <img align="right" width="400" alt="PCV's Idea of Peace Corps" src="https://user-images.githubusercontent.com/62813574/110652726-a0500200-818a-11eb-840a-d1cdfff2c11d.png">
     </td>
   </tr>
+  </table>
   
 <h3  width="400" align="right"> Wireframe and Story Board </h3>
 <img width="400" align="right" alt="Peace Corps wireframe" src= "https://user-images.githubusercontent.com/62813574/110637340-4ac02900-817b-11eb-8e46-6c33da7f343c.png">
