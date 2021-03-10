@@ -16,6 +16,7 @@
   </table>
   
 <h3  width="400" align="right"> Wireframe and Story Board </h3>
+
 <img width="400" align="right" alt="Peace Corps wireframe" src= "https://user-images.githubusercontent.com/62813574/110637340-4ac02900-817b-11eb-8e46-6c33da7f343c.png">
 
 <h3> User Research Protocol </h3>
