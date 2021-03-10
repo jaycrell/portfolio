@@ -3,6 +3,7 @@
 
 <h3> Mood Boards </h3>
 <img align="right" width="400" alt="The Administration's Idea of Peace Corps" src="https://user-images.githubusercontent.com/62813574/110652708-9cbc7b00-818a-11eb-86fc-68e75552c9ce.png">
+<br>
 <img align="right" width="400" alt="PCV's Idea of Peace Corps" src="https://user-images.githubusercontent.com/62813574/110652726-a0500200-818a-11eb-840a-d1cdfff2c11d.png">
 
 <h3  width="400" align="right"> Wireframe and Story Board </h3>
