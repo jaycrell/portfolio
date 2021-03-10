@@ -81,7 +81,9 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
   <li> How would you feel reading this project about an organization you work for or with? </li>
   </ul>
 
-<h4> Interview Findings </h4>
+
+
+<h4> Interview Findings: Overall </h4>
 <table>
   <tr>
     <th> Question </th>
@@ -96,8 +98,9 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
       <td> N/A </td>
   </tr>
   <tr> 
-    <td> 
-      <td>
+    <td> Who do you think is the intended audience for this? </td>
+      <td> Peace Corps Volunteers and Peace Corps Staff. Peace Corps stakeholders. </td>
+    <td> N/A </td>
   </tr>
   </table>
   <table>
@@ -112,9 +115,10 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
       <td> Why are Peace Corps Volunteers leaving service early - some of the factors that are causing volunteers to et or be medically separated. </td>
       <td> N/A </td>
   </tr>
-  <tr> 
-    <td> 
-      <td>
+  <tr>
+    <td> Who do you think is the intended audience for this? </td>
+      <td> I don’t know. I think it’s an argument that all PCVs feel connected to. I think it’s an upward-facing pitch informed by our experience. </td>
+    <td> N/A </td>
   </tr>
   </table>
   <table>
@@ -127,20 +131,60 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
         <th> Next Steps </th>
     <tr> 
       <td> What do you think this story is going to be about? </td>
-      <td> Why are Peace Corps Volunteers leaving service early - some of the factors that are causing volunteers to et or be medically separated. </td>
-      <td> N/A </td>
+      <td> It seems like that you’ve noticed that there might be some generalizable trend across peace corps that while volunteers sign up for 27 months of service, many do not complete. I assume you’ll differentiate between resignation, med sep, and some of the more personal reasons. </td>
+      <td> Incorporate chart breaking down ET rate by broad reason for leaving. </td>
   </tr>
+    <tr>
+    <td> Who do you think is the intended audience for this? </td>
+      <td> Non-PC people. It doesn’t to be aimed at RPCVs that are trying to understand what’s going on in Peace Corps. It’s trying to explore the unexplored truth about PC with people that wouldn’t otherwise be able to engage with it. The average every person kind of audience. </td>
+    <td> This response was very different from the previous two responses. This might be because I changed the structure of the storyboard to start with Moldova in this version. Although the general population isn't my target audience, I don't think this is a bad thing. </td>
+  </tr>
+  <tr>
+    <td> Other - Reaction to openning Photo </td>
+    <td> I remember when I was at staging and the group of volunteers that were there and the ones that were and it evokes when my girlfriend left Peace Corps for health reasons. Even if they understood part of what it was like anything that comes after, they don’t understand.</td>
+    <td> This was a response to the alternate photo with white dots in front of faces instead of the blurred faces. I'm definitely going to adopt this change given this response. </td>
   </table>
   <table>
+  <tr>
 <th> Question </th>
   <th>
     Congressional Proxy
     <br>
     30s, White, Male, Campaign Consultant</th>
+  <th> Next Steps </th>
+  </tr>
+      <tr> 
+      <td> What do you think this story is going to be about? </td>
+      <td> I think the title is clear. I think it’s going to be about why PCVs are leaving during their term. </td>
+      <td> N/A </td>
+  </tr>
+     <tr>
+    <td> Who do you think is the intended audience for this? </td>
+      <td> I think there might be a few different audiences. One might be peace corps administrators or executives. </td>
+    <td> This interviewee saw the same second storyboard draft, which means I think I'll keep the new storyboard structure that starts with Moldova. </td>
+  </tr>
+       <tr>
+    <td> Did you feel like anything was missing that you’d like to see? </td>
+      <td> I don’t think so unless you’d want to add one or two more potential reasons about why volunteers leave. </td>
+    <td> This response could go with the Zambia RPCV's response that I break down the reasons volunteers leave by the reasons people I know left. I could break it down by unemployment, mental health, physical health, and crime. </td>
+  </tr>
+         <tr>
+    <td> What’s your opinion on Peace Corps’ ET rate now that you’ve read this? </td>
+      <td> It’s higher than I thought it would be, but it seems like there are solvable processes that could be put in place to improve it. </td>
+    <td> This is the response I wanted! </td>
+  </tr>
 </table>
 
-<h3> Next Steps </h3>
-
+<h3> Summary of Next Steps </h3>
+<ul>
+  <li> Write very clear transitions and explanations of what is happening and how the story is transitioning. </li>
+    <li> Add a summary of what I've discussed in my presentation right before the call to action. Overall, I want to say that there are a lot of reasons volunteers leave. Regardless of why they leave, there are clear ways that Peace Corps can improve how it supports volunteers. </li>
+  <li> Restructure the reasons volunteers leave to be by category: Jobs, Health, Crime. If I restructure it this way, I can combine:
+    <li> the unemployment chart with data about volunteers joining Peace Corps to gain work experience, the number of volunteers who have enough work, and the OIG data about insufficient work for volunteers. </li>
+  <li> the mental health chart with the OIG mental health results </li>
+</li>
+  <li> People found the title clear, but I think it also made them think I would have more reasons to explain why volunteers are leaving. I think changing the title to something like: Too Many Peace Corps Volunteers Are Leaving Service Early. Peace Corps administrative changes could help. </li>
+  </ul>
 
   
 <h2> All set? Let's <a href= "/portfolio">go home</a>! </h2>
