@@ -1,5 +1,4 @@
-<h1> Why are volunteers leaving service early? </h1>
-<h2> Final Project Part 2 </h2>
+<h1> Final Project Part 2: Why are volunteers leaving service early? </h1>
 
 <h2> Mood Boards </h2>
 <table>
@@ -19,7 +18,7 @@
 
 <img width="400" align="right" alt="Peace Corps wireframe" src= "https://user-images.githubusercontent.com/62813574/110637340-4ac02900-817b-11eb-8e46-6c33da7f343c.png">
 
-<h3> User Research Protocol </h3>
+<h2> User Research </h2>
 <h4> Target Audience </h4> 
 <ul>
   <li> Returned Peace Corps Volunteers </li>
@@ -90,8 +89,13 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
     <br>
     28, White, Female, MBA
   </th>
+    <th> Next Steps </th>
     <tr> 
+      <td> What do you think this story is going to be about? </td>
+      <td> Why are Peace Corps Volunteers leaving service early - some of the factors that are causing volunteers to et or be medically separated. </td>
+      <td> N/A </td>
   </tr>
+  
   </table>
   <table>
   <th>
