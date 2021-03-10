@@ -90,7 +90,7 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
 
 <h3> Mood Boards </h3>
 <img align="left" width="400" alt="The Administration's Idea of Peace Corps" src="https://user-images.githubusercontent.com/62813574/110652708-9cbc7b00-818a-11eb-86fc-68e75552c9ce.png">
-<img align="right" width="400" alt="PCV's Idea of Peace Corps" src="https://user-images.githubusercontent.com/62813574/110652726-a0500200-818a-11eb-840a-d1cdfff2c11d.png">
+<img align="left" width="400" alt="PCV's Idea of Peace Corps" src="https://user-images.githubusercontent.com/62813574/110652726-a0500200-818a-11eb-840a-d1cdfff2c11d.png">
 
 
   
