@@ -83,7 +83,7 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
 
 
 
-<h4> Interview Findings: Overall </h4>
+<h2> Interview Findings: Overall </h2>
 <h3> Storyboard 1 </h3>
 <table>
   <tr>
@@ -209,22 +209,6 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
   </tr>
 </table>
 
-
-<h3> Summary of Next Steps </h3>
-<ul>
-  <li> Write very clear transitions and explanations of what is happening and how the story is transitioning. </li>
-    <li> Add a summary of what I've discussed in my presentation right before the call to action. Overall, I want to say that there are a lot of reasons volunteers leave. Regardless of why they leave, there are clear ways that Peace Corps can improve how it supports volunteers. </li>
-  <li> Restructure the reasons volunteers leave to be by category: Jobs, Health, Crime. If I restructure it this way, I can combine:
-    <li> the unemployment chart with data about volunteers joining Peace Corps to gain work experience, the number of volunteers who have enough work, and the OIG data about insufficient work for volunteers. </li>
-  <li> the mental health chart with the OIG mental health results </li>
-</li>
-  <li> People found the title clear, but I think it also made them think I would have more reasons to explain why volunteers are leaving. I think changing the title to something like: Too Many Peace Corps Volunteers Are Leaving Service Early. Peace Corps administrative changes could help. </li>
-  <li> Gather and add qualitative quotes for each potential motivator of leaving service early. Maybe take some from <a href= "https://www.instagram.com/peacecorpshr/?hl=en" target="_blank"> Peace Corps HR? </a> </li>
-  <li> This isn't from my research, but I know that Peace Corps doesn't deal with diversity issues well, and I'd like to figure out a way to incorporate this. </li>
-  <li> Create mental health section </li>
-  </ul>
-
-
 <h4> Interview Findings: By Chart </h4>
 <table>
 <tr>
@@ -248,9 +232,36 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
             <td>People found the circle of dots confusing compared to the break down of the unit chart. They wanted more text. Some people were confused about whether this was about Moldova, an issue that was resolved when I created a Moldova introductory section in the second wireframe version.</td>
             <td>
               <ul>
-              <li>
-                </li>
+              <li> I think this is chart just needs some improved labels, but overall it's seemed to be clear, particularly in the second storyboard version.</li>
               </ul>
             </td>
           </tr>
+          <tr>
+            <td> Cohort Early Termination Rate Line Chart </td>
+          </tr>
+          <tr>
+            <td> Unemployment Rate and ET Rate </td>
+            <td> People generally understood this chart. I did get one visceral reaction from the Zambia Peace Corps Volunteer about my use of the unemployment rate. He thought that I was suggesting that only unemployed people join Peace Corps, and he was concerned I was suggesting causation. Overall people were very fascinated by this chart though. </td>
+            <td> I think breaking this analysis section by motivations for leaving Peace Corps should maybe address some of the concern about the use of unemployment rate, but it's something I'll have to think about more. </td>
+          </tr>
+          <tr>
+            <td> Assault Chart </td>
+          </tr>
+          </table>
+<p> * Note: I left some charts (like the OIG and mental health chart out because they were added later on) and need considerable work. </p>
+<h2> Summary of Next Steps </h2>
+<ul>
+  <li> Write very clear transitions and explanations of what is happening and how the story is transitioning. </li>
+    <li> Add a summary of what I've discussed in my presentation right before the call to action. Overall, I want to say that there are a lot of reasons volunteers leave. Regardless of why they leave, there are clear ways that Peace Corps can improve how it supports volunteers. </li>
+  <li> Restructure the reasons volunteers leave to be by category: Jobs, Health, Crime. If I restructure it this way, I can combine:
+    <li> the unemployment chart with data about volunteers joining Peace Corps to gain work experience, the number of volunteers who have enough work, and the OIG data about insufficient work for volunteers. </li>
+  <li> the mental health chart with the OIG mental health results </li>
+</li>
+  <li> People found the title clear, but I think it also made them think I would have more reasons to explain why volunteers are leaving. I think changing the title to something like: Too Many Peace Corps Volunteers Are Leaving Service Early. Peace Corps administrative changes could help. </li>
+  <li> Gather and add qualitative quotes for each potential motivator of leaving service early. Maybe take some from <a href= "https://www.instagram.com/peacecorpshr/?hl=en" target="_blank"> Peace Corps HR? </a> </li>
+  <li> This isn't from my research, but I know that Peace Corps doesn't deal with diversity issues well, and I'd like to figure out a way to incorporate this. </li>
+  <li> Create mental health section </li>
+  <li> A number of interviewees were confused by the transition to global data from Moldova data, so I need make that transition clearer. </li>
+  </ul>
+
 <h2> All set? Let's <a href= "/portfolio">go home</a>! </h2>
