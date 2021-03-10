@@ -1,13 +1,11 @@
 <h1> Why are volunteers leaving service early? </h1>
 <h2> Final Project Part 2 </h2>
 
+<h3> Mood Boards </h3>
 <table>
-  <tr> 
-    <th> <h3> Mood Boards </h3> </th>
-  </tr>
   <tr>
-    <th> <h3> Mood Board Peace Corps Administration</h3> </th>
-    <th> <h3> Mood Board Peace Corps Volunteers</h3> </th>
+    <th> <h4> Peace Corps Administration</h4> </th>
+    <th> <h4> Peace Corps Volunteers</h4> </th>
   </tr>
   <tr>
     <td> <img align="right" width="400" alt="The Administration's Idea of Peace Corps" src="https://user-images.githubusercontent.com/62813574/110652708-9cbc7b00-818a-11eb-86fc-68e75552c9ce.png">
