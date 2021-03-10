@@ -23,7 +23,6 @@
         </p>
 <h5> Invested Members of Congress </h5>    
 <p> I think this role will also be fulfilled by someone who works outside of the Peace Corps and has not been a volunteer. Members of Congress would be more interested in this project because of its impact on budgets and taxpayer dollars, so I think a taxpayer will serve as a reasonable proxy. </p>
-<br>
 <h4> Interview Goals </h4>
 <p> Generally, I want to know:
   <ul> 
@@ -31,7 +30,6 @@
     <li> whether they logically connect </li>
     <li> whether this story drives them to act upon the call to action. </li>
     </ul>
-<br>
 Specifically, I want to gauge whether I’ve successfully transitioned from talking about Peace Corps early termination rates to discussing the other problems in the Peace Corps. After struggling to find many clear correlations between specific problems and early termination rates (other than unemployment), I’ve decided to highlight problems in the Peace Corps that might be influencing early termination rates. I want this section to flow in this way:
 <ul>
   <li> Highlight problems in the Peace Corps that might be contributing to early termination rates </li>
@@ -39,14 +37,35 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
   <li> End with a call to action to contact Peace Corps administration. </li>
   </ul>
     </p>
-<br>
-<h4> Interview Script </h4>
-<h5> Introduction </h5>
+<h4> Interview Script</h4>
+<h5> Introduction: All interviewees</h5>
   <p> I'm doing a project for my Telling Stories with Data class, and I want to interview you for user research. We can discuss the project and specific charts at the end, but I won't answer questions before then so I don't influence your responses. </p>
+<h5> Introduction: Interviewees Unaffiliated with Peace Corps </h5>
+<p> Before we start, I want to introduce some Peace Corps terminology that you'll need to understand this report:
+  <ul> 
+    <li> The early termination rate measures the number of volunteers that leave service (for any reason other than evacuation) prior to completing the two years of service. </li>
+    <li> A cohort is a group of volunteers that start service at the same time. </li>
+    <li> When you’re assessing this project, please try to consider it from the perspective of the Peace Corps’ administration.</li>
+</ul>
 <h5> Opening Question </h5>
 <ul> 
   <li> Based on the title, what do you think this story is going to be about? </li>
   </ul>
-<h5> 
-
+<h5> Questions Per Chart </h5>
+<ul>
+  <li> Can you describe to me what this is telling you? </li>
+  <li> Based off your understanding of this story, do you think this chart is useful or interesting? </li>
+  <li> Is there anything you would change or do differently? </li>
+</ul>
+<h5> Closing Questions: All Interviewees </h5>
+<ul> 
+  <li> Who do you think is the intended audience for this? </li>
+  <li> Did you feel like anything was missing that you’d like to see? </li>
+  <li> What’s your opinion on Peace Corps’ ET rate now that you’ve read this? </li>
+</ul>
+<h5> Closing Question: Interviewees Unaffiliated with Peace Corps </h5>
+<ul> 
+  <li> How would you feel reading this project about an organization you work for or with? </li>
+  </ul>
+  
 <h2> All set? Let's <a href= "/portfolio">go home</a>! </h2>
