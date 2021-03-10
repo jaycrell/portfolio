@@ -70,20 +70,27 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
 
 <h4> Interview Findings </h4>
 <table>
-  <tr> Interviewee </tr>
+  <tr>
+    <th> Question </th>
   <th> Returned Peace Corps Volunteer, Moldova 
     <br>
     28, White, Female, MBA
   </th>
+  </tr>
+  </table>
+  <table>
   <th>
     Returned Peace Corps Volunteer, Thailand
     <br>
     26, White, Female, MSPPM
   </th>
   <th>
-    Peace Corps Admin Proxy
+    Returned Peace Corps Volutneer, Zambia
+  </th>
+  <th>
+    Congresional Proxy
     <br>
-    59, White, Female, PR Professional </th>
+    30, White, Male, Campaign Consultant</th>
 </table>
 
 <h3> Next Steps </h3>
