@@ -173,6 +173,11 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
       <td> It’s higher than I thought it would be, but it seems like there are solvable processes that could be put in place to improve it. </td>
     <td> This is the response I wanted! </td>
   </tr>
+           <tr>
+    <td> How would you feel reading this project about an organization you work for or with? </td>
+      <td> Tough but fair </td>
+    <td> N/A </td>
+  </tr>
 </table>
 
 <h3> Summary of Next Steps </h3>
