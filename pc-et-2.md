@@ -207,6 +207,7 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
   </tr>
 </table>
 
+
 <h3> Summary of Next Steps </h3>
 <ul>
   <li> Write very clear transitions and explanations of what is happening and how the story is transitioning. </li>
@@ -216,10 +217,33 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
   <li> the mental health chart with the OIG mental health results </li>
 </li>
   <li> People found the title clear, but I think it also made them think I would have more reasons to explain why volunteers are leaving. I think changing the title to something like: Too Many Peace Corps Volunteers Are Leaving Service Early. Peace Corps administrative changes could help. </li>
-  <li> Gather and add qualitative quotes for each potential motivator of leaving service early. Maybe take some from <a href= "https://www.instagram.com/peacecorpshr/?hl=en" target="_blank"> Peace Corps HR? </li>
+  <li> Gather and add qualitative quotes for each potential motivator of leaving service early. Maybe take some from <a href= "https://www.instagram.com/peacecorpshr/?hl=en" target="_blank"> Peace Corps HR? </a> </li>
   <li> This isn't from my research, but I know that Peace Corps doesn't deal with diversity issues well, and I'd like to figure out a way to incorporate this. </li>
   <li> Create mental health section </li>
   </ul>
 
-  
+
+<h4> Interview Findings: By Chart </h4>
+<table>
+<tr>
+  <th> Chart </th>
+  <th> Response </th>
+  <th> Next Steps </th>
+  </tr>
+  <tr>
+    <td> Do you intend to complete service? </td>
+    <td> All of my interviewees thought that this result was from a survey volunteers completed before/at the beginning of service, but actually it's an annual survey volunteers take twice during service (at different times). One interviewee was confused by the red and blue because they'd become associated with good/bad. The acronyms at the bottom were confusing, even for people associated with Peace Corps and people found them unenecessary because they didn't give new information.
+        </td>
+      <td> 
+        <ul>
+      <li>  I have data about where volunteers are in service when they response, so I think I should explore whether there's a difference in response among volunteers who are more or less than a year into service. </li>
+            <li> I'm also going to change the colors because the red and blue became associated with good/bad, which confused one responder.</li>
+          <li> Get rid of regional breakdown </li>
+            </ul
+          </td>
+          <tr>
+            <td>
+              
+          </td>
+          </tr>
 <h2> All set? Let's <a href= "/portfolio">go home</a>! </h2>
