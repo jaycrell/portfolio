@@ -84,6 +84,7 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
 
 
 <h4> Interview Findings: Overall </h4>
+<h3> Storyboard 1 </h3>
 <table>
   <tr>
     <th> Question </th>
@@ -143,6 +144,7 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
     <td> None </td>
   </tr>
   </table>
+  <h3> Storyboard 2 </h3>
   <table>
   <th> Question </th>
   <th>
@@ -242,8 +244,13 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
             </ul
           </td>
           <tr>
+    <td> Unit Chart of PC Moldova ET Rate</td>
+            <td>People found the circle of dots confusing compared to the break down of the unit chart. They wanted more text. Some people were confused about whether this was about Moldova, an issue that was resolved when I created a Moldova introductory section in the second wireframe version.</td>
             <td>
-              
-          </td>
+              <ul>
+              <li>
+                </li>
+              </ul>
+            </td>
           </tr>
 <h2> All set? Let's <a href= "/portfolio">go home</a>! </h2>
