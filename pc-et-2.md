@@ -95,15 +95,27 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
     <tr> 
       <td> What do you think this story is going to be about? </td>
       <td> Why are Peace Corps Volunteers leaving service early - some of the factors that are causing volunteers to et or be medically separated. </td>
-      <td> N/A </td>
+      <td> None </td>
   </tr>
   <tr> 
     <td> Who do you think is the intended audience for this? </td>
       <td> Peace Corps Volunteers and Peace Corps Staff. Peace Corps stakeholders. </td>
     <td> N/A </td>
   </tr>
+         <tr>
+    <td> Did you feel like anything was missing that you’d like to see? </td>
+      <td> Yeah, I think I’d like to see more on volunteers’ reasoning for leaving. More volunteer insight as to why they left. </td>
+    <td> I think adding the quotes from volunteers will be a nice way to address this. </td>
+  </tr>
+         <tr>
+    <td> What’s your opinion on Peace Corps’ ET rate now that you’ve read this? </td>
+      <td> It’s too high. We invest too much money for people just to bail, and there are many easy areas of improvement that Peace Corps can do to improve this rate. There’s always going to be some people who quit, but there shouldn’t be this many. </td>
+    <td> This is a more positive response to the $104,000 number, so I have to decide whether to keep it</td>
+  </tr>
   </table>
   <table>
+  <th> Questions
+  </th>
   <th>
     Returned Peace Corps Volunteer, Thailand
     <br>
@@ -113,12 +125,22 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
     <tr> 
       <td> What do you think this story is going to be about? </td>
       <td> Why are Peace Corps Volunteers leaving service early - some of the factors that are causing volunteers to et or be medically separated. </td>
-      <td> N/A </td>
+      <td> None </td>
   </tr>
   <tr>
     <td> Who do you think is the intended audience for this? </td>
       <td> I don’t know. I think it’s an argument that all PCVs feel connected to. I think it’s an upward-facing pitch informed by our experience. </td>
-    <td> N/A </td>
+    <td> None </td>
+  </tr>
+         <tr>
+    <td> Did you feel like anything was missing that you’d like to see? </td>
+      <td>  Did you have a mental health component? A lot of people in my cohort should have been coded as ETs - I know a couple of people who took a mental health med evac and they had to fight PC to get a mental health evacuation. </td>
+    <td> After getting this feedback, I added a wireframe for this to my storyboard, but I need to make a more formal graphic. </td>
+  </tr>
+         <tr>
+    <td> What’s your opinion on Peace Corps’ ET rate now that you’ve read this? </td>
+      <td>  I think it’s representative of a lot of programmatic flaws Peace Corps has. </td>
+    <td> None </td>
   </tr>
   </table>
   <table>
@@ -138,6 +160,11 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
     <td> Who do you think is the intended audience for this? </td>
       <td> Non-PC people. It doesn’t to be aimed at RPCVs that are trying to understand what’s going on in Peace Corps. It’s trying to explore the unexplored truth about PC with people that wouldn’t otherwise be able to engage with it. The average every person kind of audience. </td>
     <td> This response was very different from the previous two responses. This might be because I changed the structure of the storyboard to start with Moldova in this version. Although the general population isn't my target audience, I don't think this is a bad thing. </td>
+  </tr>
+         <tr>
+    <td> Did you feel like anything was missing that you’d like to see? </td>
+      <td>  Based on your first slide, which suggested that these might be the top reasons volunteers leave, but I think there were issues that were included that just weren’t discussed, but they weren’t addressed so it makes me wonder where. Add a summary. You have to tell me what you told me. You need to have something that pulls it all together. You’ve got a lot of build up but there’s no pay off. Peace Corps $104,000 may be taken out of context.</td>
+    <td> I'm going to consider taking out the $104,000 if I can find another way to emphasize the importance for Peace Corps because I think this is a good point, and I don't want Peace Corps to be shut down. I think changing the title will help me address some of the more exploratory concerns. I also think breaking down the response by motivator (job, mental heatlh, etc) would be helpful. I also should note that the version that this interviewee saw had a list of reasons volunteers left, which the first two didn't have. </td>
   </tr>
   <tr>
     <td> Other - Reaction to openning Photo </td>
@@ -189,6 +216,9 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
   <li> the mental health chart with the OIG mental health results </li>
 </li>
   <li> People found the title clear, but I think it also made them think I would have more reasons to explain why volunteers are leaving. I think changing the title to something like: Too Many Peace Corps Volunteers Are Leaving Service Early. Peace Corps administrative changes could help. </li>
+  <li> Gather and add qualitative quotes for each potential motivator of leaving service early. Maybe take some from <a href= "https://www.instagram.com/peacecorpshr/?hl=en" target="_blank"> Peace Corps HR? </li>
+  <li> This isn't from my research, but I know that Peace Corps doesn't deal with diversity issues well, and I'd like to figure out a way to incorporate this. </li>
+  <li> Create mental health section </li>
   </ul>
 
   
