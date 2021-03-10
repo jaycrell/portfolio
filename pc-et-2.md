@@ -95,21 +95,48 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
       <td> Why are Peace Corps Volunteers leaving service early - some of the factors that are causing volunteers to et or be medically separated. </td>
       <td> N/A </td>
   </tr>
-  
+  <tr> 
+    <td> 
+      <td>
+  </tr>
   </table>
   <table>
   <th>
     Returned Peace Corps Volunteer, Thailand
     <br>
-    26, White, Female, MSPPM
+    20s, White, Female, MSPPM
   </th>
+      <th> Next Steps </th>
+    <tr> 
+      <td> What do you think this story is going to be about? </td>
+      <td> Why are Peace Corps Volunteers leaving service early - some of the factors that are causing volunteers to et or be medically separated. </td>
+      <td> N/A </td>
+  </tr>
+  <tr> 
+    <td> 
+      <td>
+  </tr>
+  </table>
+  <table>
+  <th> Question </th>
   <th>
     Returned Peace Corps Volutneer, Zambia
-  </th>
-  <th>
-    Congresional Proxy
     <br>
-    30, White, Male, Campaign Consultant</th>
+    20s, White, Male, MSPPM
+  </th>
+        <th> Next Steps </th>
+    <tr> 
+      <td> What do you think this story is going to be about? </td>
+      <td> Why are Peace Corps Volunteers leaving service early - some of the factors that are causing volunteers to et or be medically separated. </td>
+      <td> N/A </td>
+  </tr>
+  </table>
+  <table>
+<th> Question </th>
+  <th>
+    Congressional Proxy
+    <br>
+    30s, White, Male, Campaign Consultant</th>
 </table>
 
 <h3> Next Steps </h3>
