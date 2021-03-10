@@ -67,5 +67,22 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
 <ul> 
   <li> How would you feel reading this project about an organization you work for or with? </li>
   </ul>
+
+<h4> Interview Findings </h4>
+<table>
+  <tr> Interviewee </tr>
+  <th> Returned Peace Corps Volunteer, Moldova 
+    <br>
+    28, White, Female, MBA
+  </th>
+  <th>
+    Returned Peace Corps Volunteer, Thailand
+    <br>
+    26, White, Female, MSPPM
+  </th>
+  <th>
+    Peace Corps Admin Proxy
+    <br>
+    59, White, Female, PR Professional </th>
   
 <h2> All set? Let's <a href= "/portfolio">go home</a>! </h2>
