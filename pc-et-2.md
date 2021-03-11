@@ -155,71 +155,90 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
     <td> None </td>
   </tr>
   </table>
+  
   <h2> Responses to Storyboard 2 </h2>
+  
   <h3> Returned Peace Corps Volutneer, Zambia
   <br>
     20s, White, Male, MSPPM
   </h3>
+  
   <table>
+  <tr>
   <th> Question </th>
   <th> Responses </th>
         <th> Next Steps </th>
-    <tr> 
+    </tr> 
+  
+  <tr>
       <td> What do you think this story is going to be about? </td>
       <td> It seems like that you’ve noticed that there might be some generalizable trend across peace corps that while volunteers sign up for 27 months of service, many do not complete. I assume you’ll differentiate between resignation, med sep, and some of the more personal reasons. </td>
       <td> Incorporate chart breaking down ET rate by broad reason for leaving. </td>
   </tr>
+  
     <tr>
     <td> Who do you think is the intended audience for this? </td>
       <td> Non-PC people. It doesn’t to be aimed at RPCVs that are trying to understand what’s going on in Peace Corps. It’s trying to explore the unexplored truth about PC with people that wouldn’t otherwise be able to engage with it. The average every person kind of audience. </td>
     <td> This response was very different from the previous two responses. This might be because I changed the structure of the storyboard to start with Moldova in this version. Although the general population isn't my target audience, I don't think this is a bad thing. </td>
   </tr>
-         <tr>
+  
+    <tr>
     <td> Did you feel like anything was missing that you’d like to see? </td>
       <td>  Based on your first slide, which suggested that these might be the top reasons volunteers leave, but I think there were issues that were included that just weren’t discussed, but they weren’t addressed so it makes me wonder where. Add a summary. You have to tell me what you told me. You need to have something that pulls it all together. You’ve got a lot of build up but there’s no pay off. Peace Corps $104,000 may be taken out of context.</td>
     <td> I'm going to consider taking out the $104,000 if I can find another way to emphasize the importance for Peace Corps because I think this is a good point, and I don't want Peace Corps to be shut down. I think changing the title will help me address some of the more exploratory concerns. I also think breaking down the response by motivator (job, mental heatlh, etc) would be helpful. I also should note that the version that this interviewee saw had a list of reasons volunteers left, which the first two didn't have. </td>
   </tr>
+  
   <tr>
     <td> Other - Reaction to openning Photo </td>
     <td> I remember when I was at staging and the group of volunteers that were there and the ones that were and it evokes when my girlfriend left Peace Corps for health reasons. Even if they understood part of what it was like anything that comes after, they don’t understand.</td>
     <td> This was a response to the alternate photo with white dots in front of faces instead of the blurred faces. I'm definitely going to adopt this change given this response. </td>
+  </tr>
+  
   </table>
+  
   <h3>
     Congressional Proxy
     <br>
     30s, White, Male, Campaign Consultant
   </h3>
+  
   <table>
   <tr>
 <th> Question </th>
   <th> Response </th>
   <th> Next Steps </th>
   </tr>
+  
       <tr> 
       <td> What do you think this story is going to be about? </td>
       <td> I think the title is clear. I think it’s going to be about why PCVs are leaving during their term. </td>
       <td> N/A </td>
   </tr>
+  
      <tr>
     <td> Who do you think is the intended audience for this? </td>
       <td> I think there might be a few different audiences. One might be peace corps administrators or executives. </td>
     <td> This interviewee saw the same second storyboard draft, which means I think I'll keep the new storyboard structure that starts with Moldova. </td>
   </tr>
+  
        <tr>
     <td> Did you feel like anything was missing that you’d like to see? </td>
       <td> I don’t think so unless you’d want to add one or two more potential reasons about why volunteers leave. </td>
     <td> This response could go with the Zambia RPCV's response that I break down the reasons volunteers leave by the reasons people I know left. I could break it down by unemployment, mental health, physical health, and crime. </td>
   </tr>
+  
          <tr>
     <td> What’s your opinion on Peace Corps’ ET rate now that you’ve read this? </td>
       <td> It’s higher than I thought it would be, but it seems like there are solvable processes that could be put in place to improve it. </td>
     <td> This is the response I wanted! </td>
   </tr>
+  
            <tr>
     <td> How would you feel reading this project about an organization you work for or with? </td>
       <td> Tough but fair </td>
     <td> N/A </td>
   </tr>
+  
 </table>
 
 <h4> Interview Findings: By Chart </h4>
@@ -262,9 +281,12 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
           <tr>
             <td> Assault Chart </td>
             <td> People guessed you could assort by sexual vs. physical assault. I think this was an intense chart for people to see. One of the female interviewees said it was important but also that she hated it, so it did it's job. The date range and lack of color contrast between the 2013-2016 average and the individual years definitely confused people. One interviewee said they wanted a bigger connection to early termination. One interviewee also suggested showing the chart as increases instead of raw numbers. The PCVs were not shocked by the large numbers but the congressional consultant was. </td>
+            
             <td> I need to make sure the 2013-2016 says average and I think I'll grey it out to distinguish it from the red. Hopefully I can make the connection to early termination once I organize the Peace Corps problems by category. </td>
           </tr>
+          
           </table>
+        
 <p> * Note: I left some charts (like the OIG and mental health chart out because they were added later on) and need considerable work. When I showed them to people they just said that they didn't know what they meant. </p>
 <h2> Summary of Next Steps </h2>
 <ul>
