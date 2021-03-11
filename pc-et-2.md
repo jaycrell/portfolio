@@ -14,7 +14,7 @@
   </tr>
   </table>
   
-<h2 width="400" align="right"> Wireframe and Story Board </h2>
+<h2 width="400" align="right"> Story Board Version 1 </h2>
 
 <img width="400" align="right" alt="Peace Corps wireframe" src= "https://user-images.githubusercontent.com/62813574/110637340-4ac02900-817b-11eb-8e46-6c33da7f343c.png">
 
@@ -81,10 +81,8 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
   <li> How would you feel reading this project about an organization you work for or with? </li>
   </ul>
 
-
-
 <h2> Interview Findings: Overall </h2>
-<h3> Storyboard 1 </h3>
+<h2> Responses to Storyboard 1 </h2>
 <table>
   <tr>
     <th> Question </th>
@@ -144,7 +142,7 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
     <td> None </td>
   </tr>
   </table>
-  <h3> Storyboard 2 </h3>
+  <h2> Storyboard 2 </h2>
   <table>
   <th> Question </th>
   <th>
