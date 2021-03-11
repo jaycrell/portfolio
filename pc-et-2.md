@@ -92,8 +92,6 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
   </ul>
 
 <h2> Interview Findings: Overall </h2>
-<h2 width="400" align="right"> Story Board Version 1 </h2>
-
 <h2> Responses to Storyboard 1 </h2>
 <table>
   <tr>
