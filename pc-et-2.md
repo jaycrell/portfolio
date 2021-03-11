@@ -152,7 +152,7 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
     <td> None </td>
   </tr>
   </table>
-  <h2> Storyboard 2 </h2>
+  <h2> Responses to Storyboard 2 </h2>
   <table>
   <th> Question </th>
   <th>
