@@ -181,13 +181,15 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
     <td> I remember when I was at staging and the group of volunteers that were there and the ones that were and it evokes when my girlfriend left Peace Corps for health reasons. Even if they understood part of what it was like anything that comes after, they don’t understand.</td>
     <td> This was a response to the alternate photo with white dots in front of faces instead of the blurred faces. I'm definitely going to adopt this change given this response. </td>
   </table>
+  <h3>
+    Congressional Proxy
+    <br>
+    30s, White, Male, Campaign Consultant
+  </h3>
   <table>
   <tr>
 <th> Question </th>
-  <th>
-    Congressional Proxy
-    <br>
-    30s, White, Male, Campaign Consultant</th>
+  <th> Response </th>
   <th> Next Steps </th>
   </tr>
       <tr> 
