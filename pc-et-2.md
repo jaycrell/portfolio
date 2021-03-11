@@ -20,10 +20,10 @@
     </tr>
     <tr>
   <td>
-  <img width="400" alt="Peace Corps storyboard 1" src="https://user-images.githubusercontent.com/62813574/110729765-43396800-81ed-11eb-92ae-238736a35205.png">
+    <img width="400" alt="Peace Corps storyboard 2" src= "https://user-images.githubusercontent.com/62813574/110637340-4ac02900-817b-11eb-8e46-6c33da7f343c.png">
   </td>
   <td>
-<img width="400" alt="Peace Corps storyboard 2" src= "https://user-images.githubusercontent.com/62813574/110637340-4ac02900-817b-11eb-8e46-6c33da7f343c.png">
+  <img width="400" alt="Peace Corps storyboard 1" src="https://user-images.githubusercontent.com/62813574/110729765-43396800-81ed-11eb-92ae-238736a35205.png">
   </td>
   <tr>
     </table>
