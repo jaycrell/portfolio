@@ -6,15 +6,15 @@
     <th> <h4> Peace Corps Administration</h4> </th>
     <th> <h4> Peace Corps Volunteers</h4> </th>
   </tr>
-  <h2> Story Boards </h2>
-  </table>
-  <table>
   <tr>
     <td> <img align="right" width="400" alt="The Administration's Idea of Peace Corps" src="https://user-images.githubusercontent.com/62813574/110652708-9cbc7b00-818a-11eb-86fc-68e75552c9ce.png">
       </td>
     <td> <img align="right" width="400" alt="PCV's Idea of Peace Corps" src="https://user-images.githubusercontent.com/62813574/110652726-a0500200-818a-11eb-840a-d1cdfff2c11d.png">
     </td>
   </tr>
+  </table>
+    <h2> Story Boards </h2>
+<table>
   <tr>
   <th> <h3> Storyboard Version 1 </h3> </th>
   <th> <h3> Storyboard Version 2 </h3> </th>
