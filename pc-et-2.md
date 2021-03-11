@@ -6,6 +6,9 @@
     <th> <h4> Peace Corps Administration</h4> </th>
     <th> <h4> Peace Corps Volunteers</h4> </th>
   </tr>
+  <h2> Story Boards </h2>
+  </table>
+  <table>
   <tr>
     <td> <img align="right" width="400" alt="The Administration's Idea of Peace Corps" src="https://user-images.githubusercontent.com/62813574/110652708-9cbc7b00-818a-11eb-86fc-68e75552c9ce.png">
       </td>
