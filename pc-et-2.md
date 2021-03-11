@@ -185,7 +185,6 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
       <td> Non-PC people. It doesn’t to be aimed at RPCVs that are trying to understand what’s going on in Peace Corps. It’s trying to explore the unexplored truth about PC with people that wouldn’t otherwise be able to engage with it. The average every person kind of audience. </td>
     <td> This response was very different from the previous two responses. This might be because I changed the structure of the storyboard to start with Moldova in this version. Although the general population isn't my target audience, I don't think this is a bad thing. </td>
   </tr>
-  
     <tr>
     <td> Did you feel like anything was missing that you’d like to see? </td>
       <td>  Based on your first slide, which suggested that these might be the top reasons volunteers leave, but I think there were issues that were included that just weren’t discussed, but they weren’t addressed so it makes me wonder where. Add a summary. You have to tell me what you told me. You need to have something that pulls it all together. You’ve got a lot of build up but there’s no pay off. Peace Corps $104,000 may be taken out of context.</td>
@@ -199,13 +198,11 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
   </tr>
   
   </table>
-  
   <h3>
     Congressional Proxy
     <br>
     30s, White, Male, Campaign Consultant
   </h3>
-  
   <table>
   <tr>
 <th> Question </th>
@@ -239,7 +236,7 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
   </tr>
 </table>
 
-<h4> Interview Findings: By Chart </h4>
+<h2> Interview Findings: By Chart </h2>
 <table>
 <tr>
   <th> Chart </th>
