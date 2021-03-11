@@ -248,7 +248,9 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
             </td>
           </tr>
           <tr>
-            <td> Cohort Early Termination Rate Line Chart </td>
+            <td> Cohort Early Termination Rate Line Chart </td
+              <td> There was disagreement between whether the 1/3 (33.3% as one interviewee suggested) was a more striking statistic or whether the 10 percentage point trend was more striking, but most interviewees agreed that I should focus on one. </td>
+            <td> I think that for this chart I'll change it from a line graph to a bar graph and highlight the 33.3% because I use a line chart to show the trend for the next chart. This will also help fix some of the confusion from measuring this ET rate in cohort ET rates instead of annual ET rates. This way I can also label the X-axis with the cohort years (ex: 2017-2019). </td>
           </tr>
           <tr>
             <td> Unemployment Rate and ET Rate </td>
@@ -257,9 +259,11 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
           </tr>
           <tr>
             <td> Assault Chart </td>
+            <td> People guessed you could assort by sexual vs. physical assault. I think this was an intense chart for people to see. One of the female interviewees said it was important but also that she hated it, so it did it's job. The date range and lack of color contrast between the 2013-2016 average and the individual years definitely confused people. One interviewee said they wanted a bigger connection to early termination. One interviewee also suggested showing the chart as increases instead of raw numbers. The PCVs were not shocked by the large numbers but the congressional consultant was. </td>
+            <td> I need to make sure the 2013-2016 says average and I think I'll grey it out to distinguish it from the red. Hopefully I can make the connection to early termination once I organize the Peace Corps problems by category. </td>
           </tr>
           </table>
-<p> * Note: I left some charts (like the OIG and mental health chart out because they were added later on) and need considerable work. </p>
+<p> * Note: I left some charts (like the OIG and mental health chart out because they were added later on) and need considerable work. When I showed them to people they just said that they didn't know what they meant. </p>
 <h2> Summary of Next Steps </h2>
 <ul>
   <li> Write very clear transitions and explanations of what is happening and how the story is transitioning. </li>
@@ -273,6 +277,7 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
   <li> This isn't from my research, but I know that Peace Corps doesn't deal with diversity issues well, and I'd like to figure out a way to incorporate this. </li>
   <li> Create mental health section </li>
   <li> A number of interviewees were confused by the transition to global data from Moldova data, so I need make that transition clearer. </li>
+        <li> Change the first line chart about rising ET rates to be a bar chart to highlight the 33.3% ET rate for the past three cohorts. </li>
   </ul>
 
 <h2> All set? Let's <a href= "/portfolio">go home</a>! </h2>
