@@ -95,63 +95,70 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
 
 <h2> Interview Findings: Overall </h2>
 <h2> Responses to Storyboard 1 </h2>
+
 <h3> Returned Peace Corps Volunteer, Moldova 
     <br>
     28, White, Female, MBA
   </h3>
+  
 <table>
-  <tr>
-    <th> Question </th>
+ <tr>
+  <th> Question </th>
   <th> Response </th>
-    <th> Next Steps </th>
-    <tr> 
-      <td> What do you think this story is going to be about? </td>
-      <td> Why are Peace Corps Volunteers leaving service early - some of the factors that are causing volunteers to et or be medically separated. </td>
-      <td> None </td>
+  <th> Next Steps </th>
+ </tr>
+ <tr> 
+  <td> What do you think this story is going to be about? </td>
+  <td> Why are Peace Corps Volunteers leaving service early - some of the factors that are causing volunteers to et or be medically separated. </td>
+  <td> None </td>
   </tr>
   <tr> 
     <td> Who do you think is the intended audience for this? </td>
       <td> Peace Corps Volunteers and Peace Corps Staff. Peace Corps stakeholders. </td>
     <td> N/A </td>
   </tr>
-         <tr>
+  <tr>
     <td> Did you feel like anything was missing that you’d like to see? </td>
-      <td> Yeah, I think I’d like to see more on volunteers’ reasoning for leaving. More volunteer insight as to why they left. </td>
+    <td> Yeah, I think I’d like to see more on volunteers’ reasoning for leaving. More volunteer insight as to why they left. </td>
     <td> I think adding the quotes from volunteers will be a nice way to address this. </td>
   </tr>
-         <tr>
+  <tr>
     <td> What’s your opinion on Peace Corps’ ET rate now that you’ve read this? </td>
-      <td> It’s too high. We invest too much money for people just to bail, and there are many easy areas of improvement that Peace Corps can do to improve this rate. There’s always going to be some people who quit, but there shouldn’t be this many. </td>
+    <td> It’s too high. We invest too much money for people just to bail, and there are many easy areas of improvement that Peace Corps can do to improve this rate. There’s always going to be some people who quit, but there shouldn’t be this many. </td>
     <td> This is a more positive response to the $104,000 number, so I have to decide whether to keep it</td>
   </tr>
   </table>
+  
   <h3>
       Returned Peace Corps Volunteer, Thailand
     <br>
     20s, White, Female, MSPPM
   </h3>
-  <table>
+  
+<table>
+ <tr>
   <th> Questions </th>
   <th> Response </th>
-      <th> Next Steps </th>
-    <tr> 
-      <td> What do you think this story is going to be about? </td>
-      <td> Why are Peace Corps Volunteers leaving service early - some of the factors that are causing volunteers to et or be medically separated. </td>
-      <td> None </td>
+  <th> Next Steps </th>
+ </tr>
+ <tr> 
+   <td> What do you think this story is going to be about? </td>
+   <td> Why are Peace Corps Volunteers leaving service early - some of the factors that are causing volunteers to et or be medically separated. </td>
+   <td> None </td>
+</tr>
+ <tr>
+   <td> Who do you think is the intended audience for this? </td>
+   <td> I don’t know. I think it’s an argument that all PCVs feel connected to. I think it’s an upward-facing pitch informed by our experience. </td>
+  <td> None </td>
+</tr>
+  <tr>
+   <td> Did you feel like anything was missing that you’d like to see? </td>
+   <td>  Did you have a mental health component? A lot of people in my cohort should have been coded as ETs - I know a couple of people who took a mental health med evac and they had to fight PC to get a mental health evacuation. </td>
+   <td> After getting this feedback, I added a wireframe for this to my storyboard, but I need to make a more formal graphic. </td>
   </tr>
   <tr>
-    <td> Who do you think is the intended audience for this? </td>
-      <td> I don’t know. I think it’s an argument that all PCVs feel connected to. I think it’s an upward-facing pitch informed by our experience. </td>
-    <td> None </td>
-  </tr>
-         <tr>
-    <td> Did you feel like anything was missing that you’d like to see? </td>
-      <td>  Did you have a mental health component? A lot of people in my cohort should have been coded as ETs - I know a couple of people who took a mental health med evac and they had to fight PC to get a mental health evacuation. </td>
-    <td> After getting this feedback, I added a wireframe for this to my storyboard, but I need to make a more formal graphic. </td>
-  </tr>
-         <tr>
     <td> What’s your opinion on Peace Corps’ ET rate now that you’ve read this? </td>
-      <td>  I think it’s representative of a lot of programmatic flaws Peace Corps has. </td>
+    <td>  I think it’s representative of a lot of programmatic flaws Peace Corps has. </td>
     <td> None </td>
   </tr>
   </table>
@@ -162,21 +169,18 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
   <br>
     20s, White, Male, MSPPM
   </h3>
-  
   <table>
   <tr>
   <th> Question </th>
   <th> Responses </th>
         <th> Next Steps </th>
-    </tr> 
-  
+  </tr> 
   <tr>
       <td> What do you think this story is going to be about? </td>
       <td> It seems like that you’ve noticed that there might be some generalizable trend across peace corps that while volunteers sign up for 27 months of service, many do not complete. I assume you’ll differentiate between resignation, med sep, and some of the more personal reasons. </td>
       <td> Incorporate chart breaking down ET rate by broad reason for leaving. </td>
   </tr>
-  
-    <tr>
+  <tr>
     <td> Who do you think is the intended audience for this? </td>
       <td> Non-PC people. It doesn’t to be aimed at RPCVs that are trying to understand what’s going on in Peace Corps. It’s trying to explore the unexplored truth about PC with people that wouldn’t otherwise be able to engage with it. The average every person kind of audience. </td>
     <td> This response was very different from the previous two responses. This might be because I changed the structure of the storyboard to start with Moldova in this version. Although the general population isn't my target audience, I don't think this is a bad thing. </td>
