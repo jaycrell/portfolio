@@ -13,7 +13,20 @@
     </td>
   </tr>
   </table>
-
+  <table>
+  <tr>
+  <th> <h3> Storyboard Version 1 </h3> </th>
+  <th> <h3> Storyboard Version 2 </h3> </th>
+    </tr>
+    <tr>
+  <td>
+  <img width="400" alt="Peace Corps storyboard 1" src="https://user-images.githubusercontent.com/62813574/110729765-43396800-81ed-11eb-92ae-238736a35205.png">
+  </td>
+  <td>
+<img width="400" alt="Peace Corps storyboard 2" src= "https://user-images.githubusercontent.com/62813574/110637340-4ac02900-817b-11eb-8e46-6c33da7f343c.png">
+  </td>
+  <tr>
+    </table>
 <h2> User Research </h2>
 <h4> Target Audience </h4> 
 <ul>
@@ -80,7 +93,6 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
 <h2> Interview Findings: Overall </h2>
 <h2 width="400" align="right"> Story Board Version 1 </h2>
 
-<img width="400" align="right" alt="Peace Corps wireframe" src= "https://user-images.githubusercontent.com/62813574/110637340-4ac02900-817b-11eb-8e46-6c33da7f343c.png">
 <h2> Responses to Storyboard 1 </h2>
 <table>
   <tr>
@@ -141,9 +153,6 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
     <td> None </td>
   </tr>
   </table>
-  
-  <img align="right" width="400px" src="https://user-images.githubusercontent.com/62813574/110729765-43396800-81ed-11eb-92ae-238736a35205.png">
-
   <h2> Storyboard 2 </h2>
   <table>
   <th> Question </th>
