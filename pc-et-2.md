@@ -246,17 +246,18 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
   <tr>
     <td> Do you intend to complete service? </td>
     <td> All of my interviewees thought that this result was from a survey volunteers completed before/at the beginning of service, but actually it's an annual survey volunteers take twice during service (at different times). One interviewee was confused by the red and blue because they'd become associated with good/bad. The acronyms at the bottom were confusing, even for people associated with Peace Corps and people found them unenecessary because they didn't give new information.
-        </td>
-      <td> 
-        <ul>
-      <li>  I have data about where volunteers are in service when they response, so I think I should explore whether there's a difference in response among volunteers who are more or less than a year into service. </li>
-            <li> I'm also going to change the colors because the red and blue became associated with good/bad, which confused one responder.</li>
-          <li> Get rid of regional breakdown </li>
-            </ul
-          </td>
-          <tr>
-    <td> Unit Chart of PC Moldova ET Rate</td>
-            <td>People found the circle of dots confusing compared to the break down of the unit chart. They wanted more text. Some people were confused about whether this was about Moldova, an issue that was resolved when I created a Moldova introductory section in the second wireframe version.</td>
+    </td>
+    <td> 
+      <ul>
+        <li> I have data about where volunteers are in service when they response, so I think I should explore whether there's a difference in response among volunteers who are more or less than a year into service. </li>
+        <li> I'm also going to change the colors because the red and blue became associated with good/bad, which confused one responder.</li>
+        <li> Get rid of regional breakdown </li>
+      </ul>
+    </td>
+  </tr>
+<tr>
+<td> Unit Chart of PC Moldova ET Rate</td>
+<td> People found the circle of dots confusing compared to the break down of the unit chart. They wanted more text. Some people were confused about whether this was about Moldova, an issue that was resolved when I created a Moldova introductory section in the second wireframe version.</td>
             <td>
               <ul>
               <li> I think this is chart just needs some improved labels, but overall it's seemed to be clear, particularly in the second storyboard version.</li>
