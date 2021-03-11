@@ -248,7 +248,7 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
             </td>
           </tr>
           <tr>
-            <td> Cohort Early Termination Rate Line Chart </td
+            <td> Cohort Early Termination Rate Line Chart </td>
               <td> There was disagreement between whether the 1/3 (33.3% as one interviewee suggested) was a more striking statistic or whether the 10 percentage point trend was more striking, but most interviewees agreed that I should focus on one. </td>
             <td> I think that for this chart I'll change it from a line graph to a bar graph and highlight the 33.3% because I use a line chart to show the trend for the next chart. This will also help fix some of the confusion from measuring this ET rate in cohort ET rates instead of annual ET rates. This way I can also label the X-axis with the cohort years (ex: 2017-2019). </td>
           </tr>
