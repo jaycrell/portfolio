@@ -12,9 +12,9 @@
     <td> <img align="right" width="400" alt="PCV's Idea of Peace Corps" src="https://user-images.githubusercontent.com/62813574/110652726-a0500200-818a-11eb-840a-d1cdfff2c11d.png">
     </td>
   </tr>
-  </table>
+</table>
   
-    <h2> Story Boards </h2>
+<h2> Story Boards </h2>
     
 <table>
   <tr>
@@ -28,7 +28,7 @@
   <td>
   <img width="400" alt="Peace Corps storyboard 2" src="https://user-images.githubusercontent.com/62813574/110729765-43396800-81ed-11eb-92ae-238736a35205.png">
   </td>
-  <tr>
+  </tr>
     </table>
 <h2> User Research </h2>
 <h4> Target Audience </h4> 
