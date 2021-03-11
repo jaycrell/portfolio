@@ -93,13 +93,14 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
 
 <h2> Interview Findings: Overall </h2>
 <h2> Responses to Storyboard 1 </h2>
+<h3> Returned Peace Corps Volunteer, Moldova 
+    <br>
+    28, White, Female, MBA
+  </h3>
 <table>
   <tr>
     <th> Question </th>
-  <th> Returned Peace Corps Volunteer, Moldova 
-    <br>
-    28, White, Female, MBA
-  </th>
+  <th> Response </th>
     <th> Next Steps </th>
     <tr> 
       <td> What do you think this story is going to be about? </td>
@@ -122,14 +123,14 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
     <td> This is a more positive response to the $104,000 number, so I have to decide whether to keep it</td>
   </tr>
   </table>
-  <table>
-  <th> Questions
-  </th>
-  <th>
-    Returned Peace Corps Volunteer, Thailand
+  <h3>
+      Returned Peace Corps Volunteer, Thailand
     <br>
     20s, White, Female, MSPPM
-  </th>
+  </h3>
+  <table>
+  <th> Questions </th>
+  <th> Response </th>
       <th> Next Steps </th>
     <tr> 
       <td> What do you think this story is going to be about? </td>
@@ -153,13 +154,13 @@ Specifically, I want to gauge whether I’ve successfully transitioned from talk
   </tr>
   </table>
   <h2> Responses to Storyboard 2 </h2>
+  <h3> Returned Peace Corps Volutneer, Zambia
+  <br>
+    20s, White, Male, MSPPM
+  </h3>
   <table>
   <th> Question </th>
-  <th>
-    Returned Peace Corps Volutneer, Zambia
-    <br>
-    20s, White, Male, MSPPM
-  </th>
+  <th> Responses </th>
         <th> Next Steps </th>
     <tr> 
       <td> What do you think this story is going to be about? </td>
