@@ -57,6 +57,43 @@ The Peace Corps needs to do more to support volunteers struggling with mental he
  <li> Have the first call to action for Peace Corps with the red dots. </li>
   </ul>
  
+ <h5> Version 2 </h5>
+<table>
+  <tr> 
+    <td>
+      In June 2018, 62 Peace Corps Volunteers met in Philadelphia, PA before leaving for the Republic of Moldova.
+    </td>
+   <td>
+    By March 2020, only 41 Peace Corps Volunteers remained.
+   </td>
+   <td>
+    21 Volunteers (34%) had already left Moldova.
+   </td>
+   <td> 
+    For 13 of those volunteers (62%), mental health issues associated with service contributed to their decision to leave.
+   </td>
+   <td>
+The Peace Corps needs to do more to support volunteers struggling with mental health while serving.
+   </td>
+  </tr>
+  <tr>
+   <td>
+   <img alt="62 Peace Corps Moldova Volunteers" src="https://user-images.githubusercontent.com/62813574/111073082-b83dc380-84b3-11eb-8d82-97cf2cd28c4c.jpg">
+   </td>
+   <td>
+    <img alt="41 Volunteers Remained in March 2020" src="https://user-images.githubusercontent.com/62813574/111073222-52057080-84b4-11eb-958b-a935b9dbedb4.jpg">
+   </td>
+   <td>
+    <img alt="21 Volunteers Early Terminated" src="https://user-images.githubusercontent.com/62813574/111073460-2a62d800-84b5-11eb-9d9a-ed7ced28db0a.jpg">
+   </td>
+   <td>
+    <img alt="62% of early terminations were related to mental health" src="https://user-images.githubusercontent.com/62813574/111074100-f50bb980-84b7-11eb-8e1d-a7c3285c17cb.jpg">
+   </td>
+   <td>
+    <img alt="13 dots for the 13 volunteers dealing with mental health" src="https://user-images.githubusercontent.com/62813574/111074155-1371b500-84b8-11eb-9625-afd50ef48817.jpg">
+   </td>
+  </tr>
+</table>
 
 <h3> User Research </h3>
 <h4> Female, 59 <br>
