@@ -5,25 +5,33 @@
 <h3> Background </h3>
 <p> I got lost a bit in <a href="https://jgcrellin.github.io/portfolio/pc-et-2.html" target="_blank"> Part 2 of this project </a> and realized that I was trying to tackle too much in one project. I regrouped on Friday and decided to focus the project on Early Termination rates, volunteers' mental health issues, and Peace Corps' mental health support to make a more cohesive call to action for increasing mental health resources to volutneers. <br> 
   I created some new charts to reflect this updated focus and drafted a storyboard in Shorthand before conducting additional user research. </p>
-  <h3> New Charts </h3>
+
+<h3> Story Board User Research Comments </h3>
+
+<h4> Female, 59, Public Relations Professional, Peace Corps Administration Proxy </h4>
+
+<h3> New Charts </h3>
+
 <h4> Peace Corps Moldova Early Termination Unit Chart</h4> 
+
 <p> Additional Information: In Shorthand, this chart does a reveal transition between images, and information scrolls to accompany each chart. </p>
+
 <h5> Version 1 </h5>
 <table>
   <tr> 
-    <th>
+    <td>
       "In June 2018, 62 Peace Corps Volunteers met in Philadelphia, PA before leaving for the Republic of Moldova."
-    </th>
-   <th>
+    </td>
+   <td>
     "By March 2020, only 41 Peace Corps Volunteers remained."
-   </th>
-   <th>
+   </td>
+   <td>
     "21 Volunteers (34%) had already left Moldova."
-   </th>
-   <th> 
+   </td>
+   <td> 
     "For 13 of those volunteers (62%), mental health issues associated with service contributed to their decision to leave. <br>
 The Peace Corps needs to do more to support volunteers struggling with mental health while serving."
-   </th>
+   </td>
   </tr>
   <tr>
    <td>
@@ -40,7 +48,16 @@ The Peace Corps needs to do more to support volunteers struggling with mental he
    </td>
   </tr>
 </table>
-  
+
+<h5> User Resarch Response </h5>
+<h6> Female, 59, Public Relations Professional </h6>
+<ul>
+ <li> Doesn't understand the connection between the 21 that early terminated (image 3) and the text accompanying it. </li>
+ <li> Add an image that's both grey dots and red dots between grey dot image and red dot image. </li>
+ <li> Have the first call to action for Peace Corps with the red dots. </li>
+  </ul>
+ 
+
 <h3> User Research </h3>
 <h4> Female, 59 <br>
   Public Relations Professional 
