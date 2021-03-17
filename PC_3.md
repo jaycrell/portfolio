@@ -63,11 +63,7 @@ Finally, she requested I send her the final version so she could send it up the 
 <br>
 <h2 id="chart"> Some Chart Evolutions </h2>
 
-<h4> Female, 59, Public Relations Professional, Peace Corps Administration Proxy </h4>
-
-<h3> New Charts </h3>
-
-<h4> Peace Corps Moldova Early Termination Unit Chart</h4> 
+<h3> Introductory Unit Chart</h3> 
 
 <p> Additional Information: In Shorthand, this chart does a reveal transition between images, and information scrolls to accompany each chart. </p>
 
@@ -183,8 +179,10 @@ The Peace Corps needs to do more to support volunteers struggling with mental he
   </td>
  </tr>
  <tr>
-  <td> Note: I didn't include the text in this version because it got pretty long, but it's the tame text as in my final project </td>
 </table>
+<p><b> Note: </b>I didn't include the text in this version because it got pretty long, but it's the tame text as in my final project </p>
+
+<h6> Thank you for taking the time to look at my final project! I hope you found it interesting. </h6>
 
 <a href="#header"> Back to Top </a>
 <h3> All set? Let's <a href= "/portfolio">go home</a>! </h3>
