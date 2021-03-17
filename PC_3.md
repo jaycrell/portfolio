@@ -27,7 +27,7 @@ Finally, she requested I send her the final version so she could send it up the 
 <h3> 30s, Female, Peace Corps </h3>
 <h4> Project Version: <a href="https://carnegiemellon.shorthandstories.com/Peace-Corps-Mental-Health/index.html"> Peace Corps Must Improve Mental Health Support for Volunteers </a> </h4>
 <p>
- <emp>Comment:</emp>“Include behavioral health condition is as defined by OHS” <br>
+ <b>Comment:</b>“Include behavioral health condition is as defined by OHS” <br>
 Response: This was helpful because I’d thought that people working at Peace Corps would have been familiar with this terminology.
 Next Steps: I’m going to add the definition for behavioral health condition in the first section about Moldova. I think I’ll also move the top four behavioral health conditions to this part for context.
 
