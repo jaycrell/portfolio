@@ -1,4 +1,4 @@
-<h1> Peace Corps: Behavioral Health Conditions & Early Termination Rates <br>
+<h1> Peace Corps: Mental Health & Early Termination Rates <br>
 Final Project Part 3 </h1>
 
 <h3> Final Project: <a href="https://carnegiemellon.shorthandstories.com/Peace-Corps-Mental-Health/index.html"> Mental Health Among Peace Corps Volunteers </a></h3>
