@@ -26,7 +26,7 @@ Finally, she requested I send her the final version so she could send it up the 
 <h2> User Research </h2>
 <table>
  <tr>
- <th> 30s, Female, Peace Corps </th>
+ <th> 30s, Female, Peace Corps Administration </th>
  </tr>
  <tr>
   <th>
