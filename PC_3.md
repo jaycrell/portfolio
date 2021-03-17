@@ -1,6 +1,6 @@
 <h1 id="header"> Peace Corps: Mental Health & Early Termination Rates <br>
 Final Project Part 3 </h1>
-<h4> Internal Page Links: <a href="#update"> Updates from Part II</a> • <a href="#ur"> User Research </a> • <a href="#chart">Some Chart Evolutions</a> </h4> 
+<h4> <a href="#update"> Updates from Part II</a> • <a href="#ur"> User Research </a> • <a href="#chart">Some Chart Evolutions</a> </h4> 
 
 <h3> Final Project: <a href="https://carnegiemellon.shorthandstories.com/Peace-Corps-Mental-Health/index.html"> Mental Health Among Peace Corps Volunteers </a></h3>
 
@@ -23,8 +23,8 @@ After submitting Part II, I finally worked up the courage to contact someone at 
 <br><br>
 Finally, she requested I send her the final version so she could send it up the chain of command. This final version contains her edits.
 </p>
-<br>
 <a href="#header"> Back to Top </a>
+<br>
 <h2 id="ur"> User Research </h2>
 <table>
  <tr>
@@ -59,8 +59,8 @@ Finally, she requested I send her the final version so she could send it up the 
   </td>
  </tr>
 </table>
-
 <a href="#header"> Back to Top </a>
+<br>
 <h2 id="chart"> Some Chart Evolutions </h2>
 
 <h4> Female, 59, Public Relations Professional, Peace Corps Administration Proxy </h4>
@@ -71,8 +71,10 @@ Finally, she requested I send her the final version so she could send it up the 
 
 <p> Additional Information: In Shorthand, this chart does a reveal transition between images, and information scrolls to accompany each chart. </p>
 
-<h5> Version 1 </h5>
 <table>
+ <tr> 
+  <th>Version 1</th>
+ </tr>
   <tr> 
     <td>
       "In June 2018, 62 Peace Corps Volunteers met in Philadelphia, PA before leaving for the Republic of Moldova."
@@ -112,8 +114,10 @@ The Peace Corps needs to do more to support volunteers struggling with mental he
  <li> Have the first call to action for Peace Corps with the red dots. </li>
   </ul>
  
- <h5> Version 2 </h5>
 <table>
+ <tr>
+  <th> Version 2 </th>
+ </tr>
   <tr> 
     <td>
       In June 2018, 62 Peace Corps Volunteers met in Philadelphia, PA before leaving for the Republic of Moldova.
@@ -148,6 +152,56 @@ The Peace Corps needs to do more to support volunteers struggling with mental he
     <img alt="13 dots for the 13 volunteers dealing with mental health" src="https://user-images.githubusercontent.com/62813574/111074155-1371b500-84b8-11eb-9625-afd50ef48817.jpg">
    </td>
   </tr>
+</table>
+
+<table>
+ <tr>
+  <th>Version 3</th>
+ </tr>
+ <tr>
+  <td> On June 1, 2018, my cohort (group of volunteers) met in Philadelphia, PA for three days of training before departing for Moldova.
+<br> All 62 Volunteers posed for a group photo, which serves as the cover for this story.
+  </td>
+  <td>
+   In March 2020, all of Peace Corps Moldova was evacuated due to the rising threat of COVID-19. <br> When we were evacuated, I was one of the 41 Volunteers from my cohort that was still in Moldova.
+  </td>
+  <td>
+   Between June 2018 and March 2020, 21 Volunteers from of my cohort had already left. <br> In Peace Corps jargon we say that they Early Terminated ("ET-ed"). Therefore, we had a 34 percent early termination rate.
+  </td>
+  <td>
+   Although my friends and colleagues left service early for a variety of reasons, 13 have mentioned that mental and behavioral health issues contributed to their decision.
+  </td>
+  <td>
+   Many Volunteers completed service despite mental health issues and behavioral health conditions... (continues)
+  </td>
+  <td>
+   Too many Peace Corps Volunteers struggle through mental and behavioral health issues during service without professional help. Although some get professional counseling, most do not.Peace Corps needs to provide more preventative support for Volunteers struggling with these issues.
+  </td>
+ </tr>
+  <tr>
+   <td>
+   <img alt="62 Peace Corps Moldova Volunteers" src="https://user-images.githubusercontent.com/62813574/111542352-fa7f3300-8747-11eb-96a3-cb2ec0f01c84.jpg">
+   </td>
+   <td>
+    <img alt="41 Volunteers Remained in March 2020" src="https://user-images.githubusercontent.com/62813574/111542485-2ef2ef00-8748-11eb-9b22-e5efb3143f95.jpg">
+   </td>
+   <td>
+    <img alt="21 Volunteers Early Terminated" src="https://user-images.githubusercontent.com/62813574/111542731-7c6f5c00-8748-11eb-996e-4625b9b08b33.jpg">
+   </td>
+   <td>
+    <img alt="13 ET Mental Health" src="https://user-images.githubusercontent.com/62813574/111542991-ceb07d00-8748-11eb-8b57-d32cbe92a911.jpg">
+   </td>
+   <td>
+    <img alt="32 Volunteers with Behavioral Health Concerns" src="https://user-images.githubusercontent.com/62813574/111543086-f43d8680-8748-11eb-9006-88614086c9e6.jpg">
+   </td>
+     <td>
+    <img alt="32 Volunteers with Behavioral Health Concerns" src="https://user-images.githubusercontent.com/62813574/111543086-f43d8680-8748-11eb-9006-88614086c9e6.jpg">
+   </td>
+  </tr>
+ <tr>
+  <td> <img alt="Filled 62 Proportions" src="https://user-images.githubusercontent.com/62813574/111543319-454d7a80-8749-11eb-8401-a84b61f79dd7.jpg">
+  </td>
+ </tr>
 </table>
 
 <a href="#header"> Back to Top </a>
