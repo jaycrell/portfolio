@@ -1,4 +1,4 @@
-<h1> Peace Corps: Mental Health & Early Termination Rates <br>
+<h1 id="header"> Peace Corps: Mental Health & Early Termination Rates <br>
 Final Project Part 3 </h1>
 
 <h3> Final Project: <a href="https://carnegiemellon.shorthandstories.com/Peace-Corps-Mental-Health/index.html"> Mental Health Among Peace Corps Volunteers </a></h3>
@@ -24,7 +24,8 @@ After submitting Part II, I finally worked up the courage to contact someone at 
 <br><br>
 Finally, she requested I send her the final version so she could send it up the chain of command. This final version contains her edits.
 </p>
-
+<br>
+<a href="#header"> Back to Top </a>
 <h2 id="ur"> User Research </h2>
 <table>
  <tr>
@@ -60,7 +61,8 @@ Finally, she requested I send her the final version so she could send it up the 
  </tr>
 </table>
 
-<h3 id="chart"> Some Chart Evolutions </h3>
+<a href="#header"> Back to Top </a>
+<h2 id="chart"> Some Chart Evolutions </h2>
 
 <h4> Female, 59, Public Relations Professional, Peace Corps Administration Proxy </h4>
 
