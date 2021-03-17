@@ -1,4 +1,4 @@
-<button>
+<button> Go Home </button>
 <h1> Peace Corps: Mental Health & Early Termination Rates <br>
 Final Project Part 3 </h1>
 
