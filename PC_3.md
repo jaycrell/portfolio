@@ -1,8 +1,10 @@
 <h1> Peace Corps: Behavioral Health Conditions & Early Termination Rates <br>
 Final Project Part 3 </h1>
+
+<a href="https://carnegiemellon.shorthandstories.com/Peace-Corps-Mental-Health/index.html"> Improving Mental Health Support for Peace Corps Volunteers </a>
  
- <h2> Updates from Part II </h2>
- <p> Reflection / What’s happened since Part II
+<h2> Updates from Part II </h2>
+<p> Reflection / What’s happened since Part II
 I have changed many aspects of my project since Part II. During Part II, I was really struggling to figure out how to structure my story. I wanted to discuss my experience in Moldova, early termination rates globally, and what may be causing those rates. Although I still think this story would have been interesting, I had hit a bit of a wall when unemployment was the only potential correlation I found with early termination rates. I could have made this into a story about how the Peace Corps needs to ensure that volunteers have meaningful work, but I didn’t have a swath of available data about volunteer projects.
 <br><br>
 My project shifted when I was making a chart about volunteers’ behavioral health conditions that one of my interviewees had requested. 
