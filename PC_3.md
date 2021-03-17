@@ -17,9 +17,9 @@ My story really came together after a pretty brutal (but essential) user researc
 Returned Peace Corps Volunteers and people serving in the Peace Corps administration are my primary target audience for this project. During the user research for Part II, I conducted formal interviews with three Returned Peace Corps Volunteers from Thailand, Moldova, and Zambia. Although their responses varied, the interviews made me feel pretty confident about how this portion of the target audience would react to my project. 
 <br><br>
 I was more nervous about how someone from the Peace Corps administration would respond, particularly to the cove photo with the whited out faces of Peace Corps Volunteers. During Part II, I interviewed one person as a Congressional / Peace Corps administration proxy, and he had described it as “tough but fair.” Although this response was better than I’d expected, I still fretted that his distance from the Peace Corps meant he would have a less visceral response to the content. I had been procrastinating contacting someone from Peace Corps Moldova because I was nervous to show them the project and because I wanted to make sure I had a clean draft, since I figured I’d only have one chance to talk to them. 
-
+<br><br>
 After submitting Part II, I finally worked up the courage to contact someone at Peace Corps Moldova because I knew it was an essential aspect of my user research. I finally interviewed someone from the Peace Corps on Tuesday, March 16, and it actually went really well. I’m so glad I did it because she brought up some questions about data analysis methodology and data sources that other interviewees hadn’t asked me. She was also unfamiliar with some of the terminology that I thought was common knowledge. It was also great to hear her perspective on the issue of behavioral health conditions among Peace Corps Volunteers. She gave me some great feedback, she wasn’t offended by the project, and she thought it was really important. 
-
+<br><br>
 Finally, she requested I send her the final version so she could send it up the chain of command. This final version contains her edits.
 </p>
 
@@ -32,18 +32,20 @@ Finally, she requested I send her the final version so she could send it up the 
  <b>Response:</b> This was helpful because I’d thought that people working at Peace Corps would have been familiar with this terminology. <br>
  <b>Next Steps:</b> I’m going to add the definition for behavioral health condition in the first section about Moldova. I think I’ll also move the top four behavioral health conditions to this part for context.
 <br><br>
-<b>Comment - In response to Behavioral Health estimation in the unit chart: “How did you estimate this?”
-Response: It was great to be asked this because it was the first time my methodology was question.
-Next Steps: Include that the estimation is based on Moldova’s rate from the health of the volunteer - 2018
-
-Comment - In response to rising behavioral health rates: “Who's diagnosing? These are new things from in-country or were they conditions volunteers came in with?”
-Response: While I think this is a great question, I don’t have the answer about what’s pre-existing and what was diagnosed in-country. I think it does not really affect my report, but I will try to change phrasing around this.
-Next Steps: I’ll change some of the terminology around behavioral health diagnoses to try to reflect that they are diagnoses, but only because the PCMO responds to what people 
-
-Comment: “The counseling and outreach unit - now BHO - to be more inclusive for people within the behavioral health lens - the idea that people can go there for more support than just counseling. The agency is advocating for increased support. Budget is a huge part of this.”
-Response: It was good to talk to someone from the agency about what it’s trying to do to better support the mental health support of volunteers. I want to try to incorporate the budgetary constraint in my final project to acknowledge the challenges.
-Next Steps: I’m going to try to address this a bit in my call to action, and provide more specific ideas about what Peace Corps can do to help volunteers, like using tele group therapy.
-
+ <i> Unit Chart - Behavioral Health Estimation </i> <br>
+ <b>Comment:</b> “How did you estimate this?” <br>
+ <b>Response:</b> It was great to be asked this because it was the first time my methodology was question.<br>
+ <b>Next Steps:</b> Include that the estimation is based on Moldova’s rate from the health of the volunteer - 2018
+<br><br>
+ <i>Behavioral Health Raw Number Column Chart</i> <br>
+ <b>Comment:</b> “Who's diagnosing? These are new things from in-country or were they conditions volunteers came in with?”<br>
+ <b>Response:</b> While I think this is a great question, I don’t have the answer about what’s pre-existing and what was diagnosed in-country. I think it does not really affect my report, but I will try to change phrasing around this.<br>
+ <b>Next Steps:</b> I’ll change some of the terminology around behavioral health diagnoses to try to reflect that they are diagnoses, but only because the PCMO responds to what people report.
+<br><br>
+ <b>Comment:</b> “The counseling and outreach unit - now BHO - to be more inclusive for people within the behavioral health lens - the idea that people can go there for more support than just counseling. The agency is advocating for increased support. Budget is a huge part of this.”<br>
+ <b>Response:</b> It was good to talk to someone from the agency about what it’s trying to do to better support the mental health support of volunteers. I want to try to incorporate the budgetary constraint in my final project to acknowledge the challenges.<br>
+ <b>Next Steps:</b> I’m going to try to address this a bit in my call to action, and provide more specific ideas about what Peace Corps can do to help volunteers, like using tele group therapy.
+</p>
 
 
 <h2> Story Board Version 3 </h2>
