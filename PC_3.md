@@ -1,10 +1,11 @@
-<button> Go Home </button>
 <h1> Peace Corps: Mental Health & Early Termination Rates <br>
 Final Project Part 3 </h1>
 
 <h3> Final Project: <a href="https://carnegiemellon.shorthandstories.com/Peace-Corps-Mental-Health/index.html"> Mental Health Among Peace Corps Volunteers </a></h3>
 
-<h2> Updates from Part II </h2>
+<h4> Page Links <a href="#update"> Updates from Part II</a> • <a href="#ur"> User Research </a> • <a href="#chart">Some Chart Evolutions</a> </h4> 
+
+<h2 id="update"> Updates from Part II </h2>
 <p> I have changed many aspects of my project since Part II. During Part II, I was really struggling to figure out how to structure my story. I wanted to discuss my experience in Moldova, early termination rates globally, and what may be causing those rates. Although I still think this story would have been interesting, I had hit a bit of a wall when unemployment was the only potential correlation I found with early termination rates. I could have made this into a story about how the Peace Corps needs to ensure that volunteers have meaningful work, but I didn’t have a swath of available data about volunteer projects.
 <br><br>
 My project shifted when I was making a chart about volunteers’ behavioral health conditions that one of my interviewees had requested. 
@@ -24,7 +25,7 @@ After submitting Part II, I finally worked up the courage to contact someone at 
 Finally, she requested I send her the final version so she could send it up the chain of command. This final version contains her edits.
 </p>
 
-<h2> User Research </h2>
+<h2 id="ur"> User Research </h2>
 <table>
  <tr>
  <th> 30s, Female, Peace Corps Administration </th>
@@ -59,13 +60,7 @@ Finally, she requested I send her the final version so she could send it up the 
  </tr>
 </table>
 
-
-<h2> Story Board Version 3 </h2>
-<h3> Background </h3>
-<p> I got lost a bit in <a href="https://jgcrellin.github.io/portfolio/pc-et-2.html" target="_blank"> Part 2 of this project </a> and realized that I was trying to tackle too much in one project. I regrouped on Friday and decided to focus the project on Early Termination rates, volunteers' mental health issues, and Peace Corps' mental health support to make a more cohesive call to action for increasing mental health resources to volutneers. <br> 
-  I created some new charts to reflect this updated focus and drafted a storyboard in Shorthand before conducting additional user research. </p>
-
-<h3> Story Board User Research Comments </h3>
+<h3 id="chart"> Some Chart Evolutions </h3>
 
 <h4> Female, 59, Public Relations Professional, Peace Corps Administration Proxy </h4>
 
