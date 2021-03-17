@@ -24,10 +24,18 @@ Finally, she requested I send her the final version so she could send it up the 
 </p>
 
 <h2> User Research </h2>
-<h3> 30s, Female, Peace Corps </h3>
+<table>
+ <tr>
+ <th> 30s, Female, Peace Corps </th>
+ </tr>
+ <tr>
+  <th>
 <h4> Project Version: <a href="https://carnegiemellon.shorthandstories.com/Peace-Corps-Mental-Health/index.html"> Peace Corps Must Improve Mental Health Support for Volunteers </a> </h4>
-<p>
- <i> Terminology </i>
+  </th>
+ </tr>
+ <tr>
+  <td>
+ <i> Terminology </i><br>
  <b>Comment:</b> “Include behavioral health condition is as defined by OHS” <br>
  <b>Response:</b> This was helpful because I’d thought that people working at Peace Corps would have been familiar with this terminology. <br>
  <b>Next Steps:</b> I’m going to add the definition for behavioral health condition in the first section about Moldova. I think I’ll also move the top four behavioral health conditions to this part for context.
@@ -45,7 +53,9 @@ Finally, she requested I send her the final version so she could send it up the 
  <b>Comment:</b> “The counseling and outreach unit - now BHO - to be more inclusive for people within the behavioral health lens - the idea that people can go there for more support than just counseling. The agency is advocating for increased support. Budget is a huge part of this.”<br>
  <b>Response:</b> It was good to talk to someone from the agency about what it’s trying to do to better support the mental health support of volunteers. I want to try to incorporate the budgetary constraint in my final project to acknowledge the challenges.<br>
  <b>Next Steps:</b> I’m going to try to address this a bit in my call to action, and provide more specific ideas about what Peace Corps can do to help volunteers, like using tele group therapy.
-</p>
+  </td>
+ </tr>
+</table>
 
 
 <h2> Story Board Version 3 </h2>
