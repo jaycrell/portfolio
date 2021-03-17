@@ -1,9 +1,8 @@
 <h1 id="header"> Peace Corps: Mental Health & Early Termination Rates <br>
 Final Project Part 3 </h1>
+<h4> Page Links <a href="#update"> Updates from Part II</a> • <a href="#ur"> User Research </a> • <a href="#chart">Some Chart Evolutions</a> </h4> 
 
 <h3> Final Project: <a href="https://carnegiemellon.shorthandstories.com/Peace-Corps-Mental-Health/index.html"> Mental Health Among Peace Corps Volunteers </a></h3>
-
-<h4> Page Links <a href="#update"> Updates from Part II</a> • <a href="#ur"> User Research </a> • <a href="#chart">Some Chart Evolutions</a> </h4> 
 
 <h2 id="update"> Updates from Part II </h2>
 <p> I have changed many aspects of my project since Part II. During Part II, I was really struggling to figure out how to structure my story. I wanted to discuss my experience in Moldova, early termination rates globally, and what may be causing those rates. Although I still think this story would have been interesting, I had hit a bit of a wall when unemployment was the only potential correlation I found with early termination rates. I could have made this into a story about how the Peace Corps needs to ensure that volunteers have meaningful work, but I didn’t have a swath of available data about volunteer projects.
