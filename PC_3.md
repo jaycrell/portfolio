@@ -153,14 +153,4 @@ The Peace Corps needs to do more to support volunteers struggling with mental he
   </tr>
 </table>
 
-<h3> User Research </h3>
-<h4> Female, 59 <br>
-  Public Relations Professional 
-</h4>
-<table>
-  <tr>
-    <th> Question
-    </th>
-    
-  </tr>
-</table>
+
