@@ -107,7 +107,7 @@ The Peace Corps needs to do more to support volunteers struggling with mental he
   </tr>
 </table>
 
-<h5> User Resarch Response </h5>
+<h5> User Research Response </h5>
 <h6> Female, 59, Public Relations Professional </h6>
 <ul>
  <li> Doesn't understand the connection between the 21 that early terminated (image 3) and the text accompanying it. </li>
