@@ -158,20 +158,6 @@ The Peace Corps needs to do more to support volunteers struggling with mental he
  <tr>
   <th>Version 3</th>
  </tr>
- <tr>
-  <td> On June 1, 2018, my cohort (group of volunteers) met in Philadelphia, PA for three days of training before departing for Moldova.
-<br> All 62 Volunteers posed for a group photo, which serves as the cover for this story.
-  </td>
-  <td>
-   In March 2020, all of Peace Corps Moldova was evacuated due to the rising threat of COVID-19. <br> When we were evacuated, I was one of the 41 Volunteers from my cohort that was still in Moldova.
-  </td>
-  <td>
-   Between June 2018 and March 2020, 21 Volunteers from of my cohort had already left. <br> In Peace Corps jargon we say that they Early Terminated ("ET-ed"). Therefore, we had a 34 percent early termination rate.
-  </td>
-  <td>
-   Although my friends and colleagues left service early for a variety of reasons, 13 have mentioned that mental and behavioral health issues contributed to their decision.
-  </td>
- </tr>
    <tr>
    <td>
    <img alt="62 Peace Corps Moldova Volunteers" src="https://user-images.githubusercontent.com/62813574/111542352-fa7f3300-8747-11eb-96a3-cb2ec0f01c84.jpg">
@@ -187,22 +173,12 @@ The Peace Corps needs to do more to support volunteers struggling with mental he
    </td>
  </tr>
  <tr>
-  <td>
-   Many Volunteers completed service despite mental health issues and behavioral health conditions... (continues)
-  </td>
-  <td>
-   Too many Peace Corps Volunteers struggle through mental and behavioral health issues during service without professional help. Although some get professional counseling, most do not.Peace Corps needs to provide more preventative support for Volunteers struggling with these issues.
-  </td>
- </tr>
- <tr>
    <td>
     <img alt="32 Volunteers with Behavioral Health Concerns" src="https://user-images.githubusercontent.com/62813574/111543086-f43d8680-8748-11eb-9006-88614086c9e6.jpg">
    </td>
      <td>
     <img alt="32 Volunteers with Behavioral Health Concerns" src="https://user-images.githubusercontent.com/62813574/111543086-f43d8680-8748-11eb-9006-88614086c9e6.jpg">
    </td>
-  </tr>
- <tr>
   <td> <img alt="Filled 62 Proportions" src="https://user-images.githubusercontent.com/62813574/111543319-454d7a80-8749-11eb-8401-a84b61f79dd7.jpg">
   </td>
  </tr>
