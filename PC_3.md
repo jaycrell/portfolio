@@ -171,14 +171,8 @@ The Peace Corps needs to do more to support volunteers struggling with mental he
   <td>
    Although my friends and colleagues left service early for a variety of reasons, 13 have mentioned that mental and behavioral health issues contributed to their decision.
   </td>
-  <td>
-   Many Volunteers completed service despite mental health issues and behavioral health conditions... (continues)
-  </td>
-  <td>
-   Too many Peace Corps Volunteers struggle through mental and behavioral health issues during service without professional help. Although some get professional counseling, most do not.Peace Corps needs to provide more preventative support for Volunteers struggling with these issues.
-  </td>
  </tr>
-  <tr>
+   <tr>
    <td>
    <img alt="62 Peace Corps Moldova Volunteers" src="https://user-images.githubusercontent.com/62813574/111542352-fa7f3300-8747-11eb-96a3-cb2ec0f01c84.jpg">
    </td>
@@ -191,6 +185,16 @@ The Peace Corps needs to do more to support volunteers struggling with mental he
    <td>
     <img alt="13 ET Mental Health" src="https://user-images.githubusercontent.com/62813574/111542991-ceb07d00-8748-11eb-8b57-d32cbe92a911.jpg">
    </td>
+ </tr>
+ <tr>
+  <td>
+   Many Volunteers completed service despite mental health issues and behavioral health conditions... (continues)
+  </td>
+  <td>
+   Too many Peace Corps Volunteers struggle through mental and behavioral health issues during service without professional help. Although some get professional counseling, most do not.Peace Corps needs to provide more preventative support for Volunteers struggling with these issues.
+  </td>
+ </tr>
+ <tr>
    <td>
     <img alt="32 Volunteers with Behavioral Health Concerns" src="https://user-images.githubusercontent.com/62813574/111543086-f43d8680-8748-11eb-9006-88614086c9e6.jpg">
    </td>
