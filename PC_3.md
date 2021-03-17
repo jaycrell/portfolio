@@ -1,5 +1,5 @@
-<h1> Peace Corps: Behavioral Health Conditions & Early Termination Rates </h1>
-<h2> Final Project Part 3 </h2>
+<h1> Peace Corps: Behavioral Health Conditions & Early Termination Rates <br>
+Final Project Part 3 </h1>
  
  <h2> Updates from Part II </h2>
  <p> Reflection / What’s happened since Part II
