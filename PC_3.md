@@ -182,6 +182,8 @@ The Peace Corps needs to do more to support volunteers struggling with mental he
   <td> <img alt="Filled 62 Proportions" src="https://user-images.githubusercontent.com/62813574/111543319-454d7a80-8749-11eb-8401-a84b61f79dd7.jpg">
   </td>
  </tr>
+ <tr>
+  <td> Note: I didn't include the text in this version because it got pretty long, but it's the tame text as in my final project </td>
 </table>
 
 <a href="#header"> Back to Top </a>
