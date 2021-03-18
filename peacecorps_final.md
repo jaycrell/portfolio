@@ -1,5 +1,7 @@
 <h1> Why are Volunteers Leaving? </h1>
   <h3> Trying to understand the rising resignation rates among Peace Corps Volunteers </h3>
+  
+<h4> Links to other project parts: <a href="/portfolio/pc-et-2.html"> Part II </a> • <a href="/portfolio/PC_3.html"> Part III </a> </h4>
 
 <h2> Background </h2>
 
