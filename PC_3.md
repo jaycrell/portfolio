@@ -1,6 +1,6 @@
 <h1 id="header"> Peace Corps: Mental Health & Early Termination Rates <br>
 Final Project Part 3 </h1>
-<h4> <a href="#update"> Updates from Part II</a> • <a href="#ur"> User Research </a> • <a href="#chart">Some Chart Evolutions</a> </h4> 
+<h4> <a href="#update" target="_blank"> Updates from Part II</a> • <a href="#ur"> User Research </a> • <a href="#chart">Some Chart Evolutions</a> </h4> 
 
 <h3> Final Project: <a href="https://carnegiemellon.shorthandstories.com/Peace-Corps-mental-health/index.html"> Peace Corps Volunteers Need Better Mental Health Support </a></h3>
 
