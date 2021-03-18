@@ -181,7 +181,7 @@ The Peace Corps needs to do more to support volunteers struggling with mental he
   </td>
  </tr>
 </table>
-<p><b> Note: </b>I didn't include the text in this version because it got pretty long, but it's the tame text as in my final project </p>
+<p><b> Note: </b>I didn't include the text in this version because it got pretty long, but it's the same text as in my final project </p>
 
 <h6> Thank you for taking the time to look at my final project! I hope you found it interesting. </h6>
 
