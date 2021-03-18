@@ -60,6 +60,7 @@ Finally, she requested I send her the final version so she could send it up the 
  <b>Comment:</b> “The counseling and outreach unit - now BHO - to be more inclusive for people within the behavioral health lens - the idea that people can go there for more support than just counseling. The agency is advocating for increased support. Budget is a huge part of this.”<br>
  <b>Response:</b> It was good to talk to someone from the agency about what it’s trying to do to better support the mental health support of volunteers. I want to try to incorporate the budgetary constraint in my final project to acknowledge the challenges.<br>
  <b>Next Steps:</b> I’m going to try to address this a bit in my call to action, and provide more specific ideas about what Peace Corps can do to help volunteers, like using tele group therapy.<br>
+   <br>
    <i> Note:</i> This interviwee had limited time, so this interview didn't go through the entire user research script. I didn't tell her anything about the report, and instead had her go through it herself and ask me questions/give comments.
   </td>
  </tr>
