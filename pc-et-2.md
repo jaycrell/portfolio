@@ -1,5 +1,7 @@
 <h1> Final Project Part 2: Why are volunteers leaving service early? </h1>
 
+<h4> Links to other project parts: <a href="/portfolio/peacecorps_final.html"> Part I </a> • <a href="/portfolio/PC_3.html"> Part III </a> </h4>
+
 <h2> Mood Boards </h2>
 <table>
   <tr>
