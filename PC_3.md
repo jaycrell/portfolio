@@ -174,9 +174,6 @@ The Peace Corps needs to do more to support volunteers struggling with mental he
    </td>
  </tr>
  <tr>
-   <td>
-    <img alt="32 Volunteers with Behavioral Health Concerns" src="https://user-images.githubusercontent.com/62813574/111543086-f43d8680-8748-11eb-9006-88614086c9e6.jpg">
-   </td>
      <td>
     <img alt="32 Volunteers with Behavioral Health Concerns" src="https://user-images.githubusercontent.com/62813574/111543086-f43d8680-8748-11eb-9006-88614086c9e6.jpg">
    </td>
