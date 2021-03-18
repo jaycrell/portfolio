@@ -3,7 +3,7 @@ Final Project Part 3 </h1>
 <h4> Page Links: <a href="#update" target="_blank"> Updates from Part II</a> • <a href="#ur"> User Research </a> • <a href="#chart">Some Chart Evolutions</a> </h4> 
 <h4> Site Links: <a href="/portfolio/peacecorps_final.html"> Part I </a> • <a href="/portfolio/pc-et-2.html"> Part II </a> </h4>
 
-<h3> Final Project: <a href="https://carnegiemellon.shorthandstories.com/Peace-Corps-mental-health/index.html"> Peace Corps Volunteers Need Better Mental Health Support </a></h3>
+<h3> Final Project: <a href="https://carnegiemellon.shorthandstories.com/Peace-Corps-mental-health/index.html" target="_blank"> Peace Corps Volunteers Need Better Mental Health Support </a></h3>
 
 <h2 id="update"> Updates from Part II </h2>
 <p> I have changed many aspects of my project since Part II. During Part II, I was really struggling to figure out how to structure my story. I wanted to discuss my experience in Moldova, early termination rates globally, and what may be causing those rates. Although I still think this story would have been interesting, I had hit a bit of a wall when unemployment was the only potential correlation I found with early termination rates. I could have made this into a story about how the Peace Corps needs to ensure that volunteers have meaningful work, but I didn’t have a swath of available data about volunteer projects.
