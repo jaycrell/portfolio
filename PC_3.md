@@ -70,9 +70,10 @@ Finally, she requested I send her the final version so she could send it up the 
   <th>
    30s, Male, Public Administration
   </th>
-  <th>
-   Chart <i> if applicable </i> 
-  </th>
+ </tr>
+ <tr>
+  <td> <b>Project Version:</b> I didn't realize I could copy Shorthand files before writing over this version, so I've just included the charts I still have when possible.
+  </td>
  </tr>
  <tr>
  <td> 
