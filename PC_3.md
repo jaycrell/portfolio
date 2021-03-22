@@ -90,7 +90,7 @@ Finally, she requested I send her the final version so she could send it up the 
    <b>Comment:</b> I don't understand what this chart is telling me becase there’s no title on the chart. Why are the most recent columns red? Remove color differentiation, and put a clearer title.
    <br>
    <b>Response & Next Steps:</b> Given these comments, I decided to change this column chart to a line chart for the final presentation because I decided the three most recent years of ET rates were no longer the most important aspect of the chart.
-<div class="flourish-embed flourish-chart" data-src="visualisation/5513812"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<img width="400" src="https://user-images.githubusercontent.com/62813574/112042670-27539180-8b1e-11eb-89a3-049753e87310.png">
   </td>
  </tr>
  </table>
