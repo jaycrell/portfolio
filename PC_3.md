@@ -109,7 +109,7 @@ The Peace Corps needs to do more to support volunteers struggling with mental he
 </table>
 
 <h5> User Research Response </h5>
-<h6> Female, 59, Public Relations Professional </h6>
+<h6> Female, 50s, Public Relations Professional </h6>
 <ul>
  <li> Doesn't understand the connection between the 21 that early terminated (image 3) and the text accompanying it. </li>
  <li> Add an image that's both grey dots and red dots between grey dot image and red dot image. </li>
@@ -155,6 +155,11 @@ The Peace Corps needs to do more to support volunteers struggling with mental he
    </td>
   </tr>
 </table>
+
+<h5> User Research Response </h5>
+<h6> Male, 30s, Public Administration</h6>
+<p> <b>Comment:</b> “It looks like you have a cohort - you’re taking sections and subsections. I like that it stays the same shape. Put a box around the dots to have an original frame or hollow dots for context.” <br>
+ <b> Response & Next Steps: </b>I thought these were great comments and implemented them for the final version.</p>
 
 <table>
  <tr>
