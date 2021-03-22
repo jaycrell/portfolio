@@ -91,7 +91,13 @@ Finally, she requested I send her the final version so she could send it up the 
    <b>Comment:</b> I don't understand what this chart is telling me becase there’s no title on the chart. Why are the most recent columns red? Remove color differentiation, and put a clearer title.
    <br>
    <b>Response & Next Steps:</b> Given these comments, I decided to change this column chart to a line chart for the final presentation because I decided the three most recent years of ET rates were no longer the most important aspect of the chart.
+  <br>
 <img width="400" src="https://user-images.githubusercontent.com/62813574/112042670-27539180-8b1e-11eb-89a3-049753e87310.png">
+  <br>
+  <i>Column Chart Behavioral Health (similar to final)</i>
+  <br>
+  <b>Comment:</b>I don’t think this chart is interesting because “the presentation is about why are volunteers leaving service early because it doesn’t relate to the objective. I think it would be useful if the title of the presentation was about behavioral health.” I would give it a descriptive title, and I would relate it to the original research question.”<br>
+  <b> Response and Next Steps:</b> In response to this comment and some similar comments from the same interviewee, I decided to restructure my presentation and change the name to focus more on the problems relating to volunteers’ behavioral health conditions.
   </td>
  </tr>
  </table>
