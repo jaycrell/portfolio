@@ -96,7 +96,7 @@ Finally, she requested I send her the final version so she could send it up the 
    <b>Response & Next Steps:</b> Given these comments, I decided to change this column chart to a line chart for the final presentation because I decided the three most recent years of ET rates were no longer the most important aspect of the chart.
   </td>
   <td>
- <div class="flourish-embed flourish-chart" data-src="visualisation/5513812"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/5513812"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   </td>
  </tr>
  </table>
