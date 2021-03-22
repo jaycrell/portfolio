@@ -65,6 +65,41 @@ Finally, she requested I send her the final version so she could send it up the 
   </td>
  </tr>
 </table>
+<table>
+ <tr>
+  <th>
+   30s, Male, Public Administration
+  </th>
+  <th>
+   Chart <i> if applicable </i> 
+  </th>
+ </tr>
+ <tr>
+ <td> 
+  <i> General Design and Structure</i>
+  <br>
+  <b>Comment:</b>
+  <ul>
+   <li>Change font sizes to emphasize what’s the most important. </li>
+<li>Use a description title instead of a message title. Make the title different from the next sentence on the text. </li>
+<li>Make a clearer distinction between global early termination rates and Moldova early termination rates. </li>
+   <li>Remove stylistic page breaks. </li>
+  </ul>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <i>Column Chart - Global Early Terminations</i>
+   <br>
+   <b>Comment:</b> I don't understand what this chart is telling me becase there’s no title on the chart. Why are the most recent columns red? Remove color differentiation, and put a clearer title.
+   <br>
+   <b>Response & Next Steps:</b> Given these comments, I decided to change this column chart to a line chart for the final presentation because I decided the three most recent years of ET rates were no longer the most important aspect of the chart.
+  </td>
+  <td>
+ <div class="flourish-embed flourish-chart" data-src="visualisation/5513812"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+  </td>
+ </tr>
+ </table>
 <a href="#header"> Back to Top </a>
 <br>
 <h2 id="chart"> Some Chart Evolutions </h2>
