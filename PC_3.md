@@ -85,17 +85,11 @@ Finally, she requested I send her the final version so she could send it up the 
 <li>Make a clearer distinction between global early termination rates and Moldova early termination rates. </li>
    <li>Remove stylistic page breaks. </li>
   </ul>
-  </td>
- </tr>
- <tr>
-  <td>
    <i>Column Chart - Global Early Terminations</i>
    <br>
    <b>Comment:</b> I don't understand what this chart is telling me becase there’s no title on the chart. Why are the most recent columns red? Remove color differentiation, and put a clearer title.
    <br>
    <b>Response & Next Steps:</b> Given these comments, I decided to change this column chart to a line chart for the final presentation because I decided the three most recent years of ET rates were no longer the most important aspect of the chart.
-  </td>
-  <td>
 <div class="flourish-embed flourish-chart" data-src="visualisation/5513812"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   </td>
  </tr>
